@@ -1,0 +1,6 @@
+This file is the update version of Read_config_file.c
+
+FEATURES ADDED IN THE FTP_APP
+
+        1. FTP ACCESS is added we can send and receive file from local to remote and vice versa
+        2. Getting Video size, Video capture interval, Image capture Interval, Image file name are added
