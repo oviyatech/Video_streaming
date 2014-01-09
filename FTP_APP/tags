@@ -1,0 +1,375 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BAUDRATE	logger.c	12;"	d	file:
+CAMLH_DIR	Makefile	/^CAMLH_DIR = \/usr\/local\/godi\/lib\/ocaml\/std-lib\/$/;"	m
+CAMLH_DIR	ftp/ftplib/Makefile	/^CAMLH_DIR = \/usr\/local\/godi\/lib\/ocaml\/std-lib\/$/;"	m
+CC	Makefile	/^CC=gcc$/;"	m
+CC	ftp/ftplib/Makefile	/^CC=gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -I $(CAMLH_DIR) $(NO_CAML) -O2 -Wall$/;"	m
+CFLAGS	ftp/ftplib/Makefile	/^CFLAGS = -I $(CAMLH_DIR) $(NO_CAML) -O2 -Wall$/;"	m
+CONFIG_FACTORY	logger.h	8;"	d
+CONFIG_SERIAL	logger.c	18;"	d	file:
+Extern	ftp/ftplib.c	66;"	d	file:
+Extern	ftp/ftplib/ftp_var.h	50;"	d
+Extern	ftp/ftplib/ftplib.c	66;"	d	file:
+Extern	ftp_var.h	50;"	d
+Extern	ftplib.c	66;"	d	file:
+FALSE	logger.c	15;"	d	file:
+Ftp	ftp/ftplib/ftp.ml	1;"	M
+I_VAL	char.h	/^        int I_VAL;$/;"	v
+MALLOC_BUF	ftp.c	459;"	d	file:
+MALLOC_BUF	ftp/ftp.c	459;"	d	file:
+MALLOC_BUF	ftp/ftplib/ftp.c	459;"	d	file:
+MODEMDEVICE	logger.c	13;"	d	file:
+NO_CAML	Makefile	/^NO_CAML      = -DNO_CAML$/;"	m
+NO_CAML	ftp/ftplib/Makefile	/^NO_CAML      = -DNO_CAML$/;"	m
+PRINT_D	logger.h	5;"	d
+PRINT_F	logger.h	12;"	d
+SESSION_TRACKER	logger.c	/^static int SESSION_TRACKER; \/\/Keeps track of session$/;"	v	file:
+TICKBYTES	ftp/ftplib/ftp_var.h	47;"	d
+TICKBYTES	ftp_var.h	47;"	d
+TRUE	logger.c	16;"	d	file:
+UC	ftp.c	878;"	d	file:
+UC	ftp/ftp.c	878;"	d	file:
+UC	ftp/ftplib/ftp.c	879;"	d	file:
+V_IVAL	char.h	/^        int V_SIZE, V_IVAL;$/;"	v
+V_SIZE	char.h	/^        int V_SIZE, V_IVAL;$/;"	v
+_POSIX_SOURCE	logger.c	14;"	d	file:
+abort_remote	ftp.c	/^abort_remote(FILE *din)$/;"	f	file:
+abort_remote	ftp/ftp.c	/^abort_remote(FILE *din)$/;"	f	file:
+abort_remote	ftp/ftplib/ftp.c	/^abort_remote(FILE *din)$/;"	f	file:
+abortrecv	ftp.c	/^abortrecv(int ignore)$/;"	f	file:
+abortrecv	ftp/ftp.c	/^abortrecv(int ignore)$/;"	f	file:
+abortrecv	ftp/ftplib/ftp.c	/^abortrecv(int ignore)$/;"	f	file:
+abortsend	ftp.c	/^abortsend(int ignore)$/;"	f	file:
+abortsend	ftp/ftp.c	/^abortsend(int ignore)$/;"	f	file:
+abortsend	ftp/ftplib/ftp.c	/^abortsend(int ignore)$/;"	f	file:
+abrtflag	ftp.c	/^static int abrtflag = 0;$/;"	v	file:
+abrtflag	ftp/ftp.c	/^static int abrtflag = 0;$/;"	v	file:
+abrtflag	ftp/ftplib/ftp.c	/^static int abrtflag = 0;$/;"	v	file:
+add_one_file	caml.c	/^static int add_one_file(char *file, unsigned unused)$/;"	f	file:
+add_one_file	ftp/caml.c	/^static int add_one_file(char *file, unsigned unused)$/;"	f	file:
+add_one_file	ftp/ftplib/caml.c	/^static int add_one_file(char *file, unsigned unused)$/;"	f	file:
+altarg	ftp/ftplib/ftp_var.h	/^Extern char	*altarg;	\/* argv[1] with no shell-like preprocessing  *\/$/;"	v
+altarg	ftp_var.h	/^Extern char	*altarg;	\/* argv[1] with no shell-like preprocessing  *\/$/;"	v
+bytename	ftp/ftplib/ftp_var.h	/^Extern char	bytename[32];		\/* local byte size in ascii *\/$/;"	v
+bytename	ftp_var.h	/^Extern char	bytename[32];		\/* local byte size in ascii *\/$/;"	v
+caml_ftp_cd	caml.c	/^CAMLprim value caml_ftp_cd(value directory)$/;"	f
+caml_ftp_cd	ftp/caml.c	/^CAMLprim value caml_ftp_cd(value directory)$/;"	f
+caml_ftp_cd	ftp/ftplib/caml.c	/^CAMLprim value caml_ftp_cd(value directory)$/;"	f
+caml_ftp_close	caml.c	/^CAMLprim value caml_ftp_close(void)$/;"	f
+caml_ftp_close	ftp/caml.c	/^CAMLprim value caml_ftp_close(void)$/;"	f
+caml_ftp_close	ftp/ftplib/caml.c	/^CAMLprim value caml_ftp_close(void)$/;"	f
+caml_ftp_delete	caml.c	/^CAMLprim value caml_ftp_delete(value file)$/;"	f
+caml_ftp_delete	ftp/caml.c	/^CAMLprim value caml_ftp_delete(value file)$/;"	f
+caml_ftp_delete	ftp/ftplib/caml.c	/^CAMLprim value caml_ftp_delete(value file)$/;"	f
+caml_ftp_get	caml.c	/^CAMLprim value caml_ftp_get(value rst,value remotefile, value localfile)$/;"	f
+caml_ftp_get	ftp/caml.c	/^CAMLprim value caml_ftp_get(value rst,value remotefile, value localfile)$/;"	f
+caml_ftp_get	ftp/ftplib/caml.c	/^CAMLprim value caml_ftp_get(value rst,value remotefile, value localfile)$/;"	f
+caml_ftp_ls	caml.c	/^CAMLprim value caml_ftp_ls(value long_ls, value name)$/;"	f
+caml_ftp_ls	ftp/caml.c	/^CAMLprim value caml_ftp_ls(value long_ls, value name)$/;"	f
+caml_ftp_ls	ftp/ftplib/caml.c	/^CAMLprim value caml_ftp_ls(value long_ls, value name)$/;"	f
+caml_ftp_mkdir	caml.c	/^CAMLprim value caml_ftp_mkdir(value directory)$/;"	f
+caml_ftp_mkdir	ftp/caml.c	/^CAMLprim value caml_ftp_mkdir(value directory)$/;"	f
+caml_ftp_mkdir	ftp/ftplib/caml.c	/^CAMLprim value caml_ftp_mkdir(value directory)$/;"	f
+caml_ftp_open	caml.c	/^CAMLprim value caml_ftp_open(value server, value login, value passwd)$/;"	f
+caml_ftp_open	ftp/caml.c	/^CAMLprim value caml_ftp_open(value server, value login, value passwd)$/;"	f
+caml_ftp_open	ftp/ftplib/caml.c	/^CAMLprim value caml_ftp_open(value server, value login, value passwd)$/;"	f
+caml_ftp_put	caml.c	/^CAMLprim value caml_ftp_put(value rst, value append,$/;"	f
+caml_ftp_put	ftp/caml.c	/^CAMLprim value caml_ftp_put(value rst, value append,$/;"	f
+caml_ftp_put	ftp/ftplib/caml.c	/^CAMLprim value caml_ftp_put(value rst, value append,$/;"	f
+caml_ftp_putunique	caml.c	/^CAMLprim value caml_ftp_putunique(value localfile, value remotefile)$/;"	f
+caml_ftp_putunique	ftp/caml.c	/^CAMLprim value caml_ftp_putunique(value localfile, value remotefile)$/;"	f
+caml_ftp_putunique	ftp/ftplib/caml.c	/^CAMLprim value caml_ftp_putunique(value localfile, value remotefile)$/;"	f
+caml_ftp_rename	caml.c	/^CAMLprim value caml_ftp_rename(value oldfile, value newfile)$/;"	f
+caml_ftp_rename	ftp/caml.c	/^CAMLprim value caml_ftp_rename(value oldfile, value newfile)$/;"	f
+caml_ftp_rename	ftp/ftplib/caml.c	/^CAMLprim value caml_ftp_rename(value oldfile, value newfile)$/;"	f
+caml_ftp_rmdir	caml.c	/^CAMLprim value caml_ftp_rmdir(value directory)$/;"	f
+caml_ftp_rmdir	ftp/caml.c	/^CAMLprim value caml_ftp_rmdir(value directory)$/;"	f
+caml_ftp_rmdir	ftp/ftplib/caml.c	/^CAMLprim value caml_ftp_rmdir(value directory)$/;"	f
+caml_ftp_sendcommand	caml.c	/^CAMLprim value caml_ftp_sendcommand(value command)$/;"	f
+caml_ftp_sendcommand	ftp/caml.c	/^CAMLprim value caml_ftp_sendcommand(value command)$/;"	f
+caml_ftp_sendcommand	ftp/ftplib/caml.c	/^CAMLprim value caml_ftp_sendcommand(value command)$/;"	f
+caml_setpassive	caml.c	/^CAMLprim value caml_setpassive(value passive)$/;"	f
+caml_setpassive	ftp/caml.c	/^CAMLprim value caml_setpassive(value passive)$/;"	f
+caml_setpassive	ftp/ftplib/caml.c	/^CAMLprim value caml_setpassive(value passive)$/;"	f
+caml_setsafeput	caml.c	/^CAMLprim value caml_setsafeput(value safeput)$/;"	f
+caml_setsafeput	ftp/caml.c	/^CAMLprim value caml_setsafeput(value safeput)$/;"	f
+caml_setsafeput	ftp/ftplib/caml.c	/^CAMLprim value caml_setsafeput(value safeput)$/;"	f
+caml_setsendport	caml.c	/^CAMLprim value caml_setsendport(value sendport)$/;"	f
+caml_setsendport	ftp/caml.c	/^CAMLprim value caml_setsendport(value sendport)$/;"	f
+caml_setsendport	ftp/ftplib/caml.c	/^CAMLprim value caml_setsendport(value sendport)$/;"	f
+caml_setverbose	caml.c	/^CAMLprim value caml_setverbose(value verbose)$/;"	f
+caml_setverbose	ftp/caml.c	/^CAMLprim value caml_setverbose(value verbose)$/;"	f
+caml_setverbose	ftp/ftplib/caml.c	/^CAMLprim value caml_setverbose(value verbose)$/;"	f
+caml_version	caml.c	/^CAMLprim value caml_version(void)$/;"	f
+caml_version	ftp/caml.c	/^CAMLprim value caml_version(void)$/;"	f
+caml_version	ftp/ftplib/caml.c	/^CAMLprim value caml_version(void)$/;"	f
+changetype	ftp.c	/^changetype(int newtype, int show)$/;"	f
+changetype	ftp/ftp.c	/^changetype(int newtype, int show)$/;"	f
+changetype	ftp/ftplib/ftp.c	/^changetype(int newtype, int show)$/;"	f
+cin	ftp.c	/^FILE *cin, *cout;$/;"	v
+cin	ftp/ftp.c	/^FILE *cin, *cout;$/;"	v
+cin	ftp/ftplib/ftp.c	/^FILE *cin, *cout;$/;"	v
+close_port	logger.c	/^void close_port()$/;"	f
+cmdabort	ftp.c	/^cmdabort(int ignore)$/;"	f	file:
+cmdabort	ftp/ftp.c	/^cmdabort(int ignore)$/;"	f	file:
+cmdabort	ftp/ftplib/ftp.c	/^cmdabort(int ignore)$/;"	f	file:
+code	ftp/ftplib/ftp_var.h	/^Extern int	code;		\/* return\/reply code for ftp command *\/$/;"	v
+code	ftp_var.h	/^Extern int	code;		\/* return\/reply code for ftp command *\/$/;"	v
+command	ftp.c	/^command(const char *fmt, ...)$/;"	f
+command	ftp/ftp.c	/^command(const char *fmt, ...)$/;"	f
+command	ftp/ftplib/ftp.c	/^command(const char *fmt, ...)$/;"	f
+connected	ftp/ftplib/ftp_var.h	/^Extern int	connected;	\/* connected to server *\/$/;"	v
+connected	ftp_var.h	/^Extern int	connected;	\/* connected to server *\/$/;"	v
+copyright	ftp/ftplib.c	/^char copyright[] =$/;"	v
+copyright	ftp/ftplib/ftplib.c	/^char copyright[] =$/;"	v
+copyright	ftplib.c	/^char copyright[] =$/;"	v
+cout	ftp.c	/^FILE *cin, *cout;$/;"	v
+cout	ftp/ftp.c	/^FILE *cin, *cout;$/;"	v
+cout	ftp/ftplib/ftp.c	/^FILE *cin, *cout;$/;"	v
+cpend	ftp/ftplib/ftp_var.h	/^Extern int	cpend;		\/* flag: if != 0, then pending server reply *\/$/;"	v
+cpend	ftp_var.h	/^Extern int	cpend;		\/* flag: if != 0, then pending server reply *\/$/;"	v
+crflag	ftp/ftplib/ftp_var.h	/^Extern int	crflag;		\/* if 1, strip car. rets. on ascii gets *\/$/;"	v
+crflag	ftp_var.h	/^Extern int	crflag;		\/* if 1, strip car. rets. on ascii gets *\/$/;"	v
+curtype	ftp/ftplib/ftp_var.h	/^Extern int	curtype;		\/* current file transfer type *\/$/;"	v
+curtype	ftp_var.h	/^Extern int	curtype;		\/* current file transfer type *\/$/;"	v
+data	ftp.c	/^int data = -1;$/;"	v
+data	ftp/ftp.c	/^int data = -1;$/;"	v
+data	ftp/ftplib/ftp.c	/^int data = -1;$/;"	v
+data_addr	ftp.c	/^static struct sockaddr_in data_addr;$/;"	v	typeref:struct:sockaddr_in	file:
+data_addr	ftp/ftp.c	/^static struct sockaddr_in data_addr;$/;"	v	typeref:struct:sockaddr_in	file:
+data_addr	ftp/ftplib/ftp.c	/^static struct sockaddr_in data_addr;$/;"	v	typeref:struct:sockaddr_in	file:
+dataconn	ftp.c	/^dataconn(const char *lmode)$/;"	f	file:
+dataconn	ftp/ftp.c	/^dataconn(const char *lmode)$/;"	f	file:
+dataconn	ftp/ftplib/ftp.c	/^dataconn(const char *lmode)$/;"	f	file:
+do_init	ftp/ftplib.c	/^do_init(void)$/;"	f	file:
+do_init	ftp/ftplib/ftplib.c	/^do_init(void)$/;"	f	file:
+do_init	ftplib.c	/^do_init(void)$/;"	f	file:
+dologin	ftp.c	/^dologin(const char *luser, const char *pass)$/;"	f
+dologin	ftp/ftp.c	/^dologin(const char *luser, const char *pass)$/;"	f
+dologin	ftp/ftplib/ftp.c	/^dologin(const char *luser, const char *pass)$/;"	f
+empty	ftp.c	/^empty(fd_set *mask, int hifd, int sec)$/;"	f	file:
+empty	ftp/ftp.c	/^empty(fd_set *mask, int hifd, int sec)$/;"	f	file:
+empty	ftp/ftplib/ftp.c	/^empty(fd_set *mask, int hifd, int sec)$/;"	f	file:
+error	example.c	/^int error(char *msg)$/;"	f
+error	ftp/example.c	/^int error(char *msg)$/;"	f
+error	ftp/ftplib/example.c	/^int error(char *msg)$/;"	f
+fd	logger.c	/^int fd=0;$/;"	v
+fin	ftp/ftplib.c	/^FILE *fout, *fin;$/;"	v
+fin	ftp/ftplib/ftplib.c	/^FILE *fout, *fin;$/;"	v
+fin	ftplib.c	/^FILE *fout, *fin;$/;"	v
+fout	ftp/ftplib.c	/^FILE *fout, *fin;$/;"	v
+fout	ftp/ftplib/ftplib.c	/^FILE *fout, *fin;$/;"	v
+fout	ftplib.c	/^FILE *fout, *fin;$/;"	v
+fp	logger.c	/^FILE *fp ;$/;"	v
+ftp_cd	ftp/ftplib.c	/^ftp_cd(char *directory)$/;"	f
+ftp_cd	ftp/ftplib/ftplib.c	/^ftp_cd(char *directory)$/;"	f
+ftp_cd	ftplib.c	/^ftp_cd(char *directory)$/;"	f
+ftp_close	ftp/ftplib.c	/^ftp_close(void)$/;"	f
+ftp_close	ftp/ftplib/ftplib.c	/^ftp_close(void)$/;"	f
+ftp_close	ftplib.c	/^ftp_close(void)$/;"	f
+ftp_debug	ftp/ftplib/ftplib.h	/^int ftp_debug = 0;$/;"	v
+ftp_debug	ftplib.h	/^int ftp_debug = 0;$/;"	v
+ftp_delete	ftp/ftplib.c	/^ftp_delete(char *file)$/;"	f
+ftp_delete	ftp/ftplib/ftplib.c	/^ftp_delete(char *file)$/;"	f
+ftp_delete	ftplib.c	/^ftp_delete(char *file)$/;"	f
+ftp_get	ftp/ftplib.c	/^ftp_get(char *pathname, int(*fct)(char*,unsigned), unsigned bufsize, off_t rst)$/;"	f
+ftp_get	ftp/ftplib/ftplib.c	/^ftp_get(char *pathname, int(*fct)(char*,unsigned), unsigned bufsize, off_t rst)$/;"	f
+ftp_get	ftplib.c	/^ftp_get(char *pathname, int(*fct)(char*,unsigned), unsigned bufsize, off_t rst)$/;"	f
+ftp_getfile	ftp/ftplib.c	/^ftp_getfile(char *remote_file, char *local_file, off_t rst)$/;"	f
+ftp_getfile	ftp/ftplib/ftplib.c	/^ftp_getfile(char *remote_file, char *local_file, off_t rst)$/;"	f
+ftp_getfile	ftplib.c	/^ftp_getfile(char *remote_file, char *local_file, off_t rst)$/;"	f
+ftp_ls	ftp/ftplib.c	/^ftp_ls(int ll, char *pathname, int(*fct)(char*,unsigned))$/;"	f
+ftp_ls	ftp/ftplib/ftplib.c	/^ftp_ls(int ll, char *pathname, int(*fct)(char*,unsigned))$/;"	f
+ftp_ls	ftplib.c	/^ftp_ls(int ll, char *pathname, int(*fct)(char*,unsigned))$/;"	f
+ftp_mkdir	ftp/ftplib.c	/^ftp_mkdir(char *directory)$/;"	f
+ftp_mkdir	ftp/ftplib/ftplib.c	/^ftp_mkdir(char *directory)$/;"	f
+ftp_mkdir	ftplib.c	/^ftp_mkdir(char *directory)$/;"	f
+ftp_open	ftp/ftplib.c	/^ftp_open(char *server, char *login, char *passwd)$/;"	f
+ftp_open	ftp/ftplib/ftplib.c	/^ftp_open(char *server, char *login, char *passwd)$/;"	f
+ftp_open	ftplib.c	/^ftp_open(char *server, char *login, char *passwd)$/;"	f
+ftp_passive	ftp/ftplib/ftplib.h	/^int ftp_passive = 1;$/;"	v
+ftp_passive	ftplib.h	/^int ftp_passive = 1;$/;"	v
+ftp_port	ftp/ftplib/ftp_var.h	/^Extern int	ftp_port;	\/* htons'd port number for ftp service *\/$/;"	v
+ftp_port	ftp_var.h	/^Extern int	ftp_port;	\/* htons'd port number for ftp service *\/$/;"	v
+ftp_put	ftp/ftplib.c	/^ftp_put(char *pathname, int(*fct)(char*,unsigned), unsigned size, off_t rst,$/;"	f
+ftp_put	ftp/ftplib/ftplib.c	/^ftp_put(char *pathname, int(*fct)(char*,unsigned), unsigned size, off_t rst,$/;"	f
+ftp_put	ftplib.c	/^ftp_put(char *pathname, int(*fct)(char*,unsigned), unsigned size, off_t rst,$/;"	f
+ftp_putfile	ftp/ftplib.c	/^ftp_putfile(char *local_file, char *remote_file, off_t rst, int append)$/;"	f
+ftp_putfile	ftp/ftplib/ftplib.c	/^ftp_putfile(char *local_file, char *remote_file, off_t rst, int append)$/;"	f
+ftp_putfile	ftplib.c	/^ftp_putfile(char *local_file, char *remote_file, off_t rst, int append)$/;"	f
+ftp_putfileunique	ftp/ftplib.c	/^ftp_putfileunique(char *local_file, char *remote_file,$/;"	f
+ftp_putfileunique	ftp/ftplib/ftplib.c	/^ftp_putfileunique(char *local_file, char *remote_file,$/;"	f
+ftp_putfileunique	ftplib.c	/^ftp_putfileunique(char *local_file, char *remote_file,$/;"	f
+ftp_putunique	ftp/ftplib.c	/^ftp_putunique(char *pathname, char *uname, unsigned usize,$/;"	f
+ftp_putunique	ftp/ftplib/ftplib.c	/^ftp_putunique(char *pathname, char *uname, unsigned usize,$/;"	f
+ftp_putunique	ftplib.c	/^ftp_putunique(char *pathname, char *uname, unsigned usize,$/;"	f
+ftp_rcsid	ftp.c	/^char ftp_rcsid[] = $/;"	v
+ftp_rcsid	ftp/ftp.c	/^char ftp_rcsid[] = $/;"	v
+ftp_rcsid	ftp/ftplib/ftp.c	/^char ftp_rcsid[] = $/;"	v
+ftp_rename	ftp/ftplib.c	/^ftp_rename(char *oldname, char *newname)$/;"	f
+ftp_rename	ftp/ftplib/ftplib.c	/^ftp_rename(char *oldname, char *newname)$/;"	f
+ftp_rename	ftplib.c	/^ftp_rename(char *oldname, char *newname)$/;"	f
+ftp_rmdir	ftp/ftplib.c	/^ftp_rmdir(char *directory)$/;"	f
+ftp_rmdir	ftp/ftplib/ftplib.c	/^ftp_rmdir(char *directory)$/;"	f
+ftp_rmdir	ftplib.c	/^ftp_rmdir(char *directory)$/;"	f
+ftp_safeput	ftp/ftplib/ftplib.h	/^int ftp_safeput = 1;  \/\/ if set, put to destfile".tmp", then rename$/;"	v
+ftp_safeput	ftplib.h	/^int ftp_safeput = 1;  \/\/ if set, put to destfile".tmp", then rename$/;"	v
+ftp_sendcommand	ftp/ftplib.c	/^ftp_sendcommand(char *cmd, char *buf, unsigned size)$/;"	f
+ftp_sendcommand	ftp/ftplib/ftplib.c	/^ftp_sendcommand(char *cmd, char *buf, unsigned size)$/;"	f
+ftp_sendcommand	ftplib.c	/^ftp_sendcommand(char *cmd, char *buf, unsigned size)$/;"	f
+ftp_sendport	ftp/ftplib/ftplib.h	/^int ftp_sendport = 0;$/;"	v
+ftp_sendport	ftplib.h	/^int ftp_sendport = 0;$/;"	v
+ftp_verbose	ftp/ftplib/ftplib.h	/^int ftp_verbose = 0;$/;"	v
+ftp_verbose	ftplib.h	/^int ftp_verbose = 0;$/;"	v
+get	ftp/ftplib/ftp.ml	/^let get = gget 0$/;"	v
+getreply	ftp.c	/^getreply(int expecteof)$/;"	f
+getreply	ftp/ftp.c	/^getreply(int expecteof)$/;"	f
+getreply	ftp/ftplib/ftp.c	/^getreply(int expecteof)$/;"	f
+hash	ftp/ftplib/ftp_var.h	/^Extern int	hash;		\/* print # for each buffer transferred *\/$/;"	v
+hash	ftp_var.h	/^Extern int	hash;		\/* print # for each buffer transferred *\/$/;"	v
+head	caml.c	/^static value head;$/;"	v	file:
+head	ftp/caml.c	/^static value head;$/;"	v	file:
+head	ftp/ftplib/caml.c	/^static value head;$/;"	v	file:
+hisctladdr	ftp.c	/^static struct sockaddr_in hisctladdr;$/;"	v	typeref:struct:sockaddr_in	file:
+hisctladdr	ftp/ftp.c	/^static struct sockaddr_in hisctladdr;$/;"	v	typeref:struct:sockaddr_in	file:
+hisctladdr	ftp/ftplib/ftp.c	/^static struct sockaddr_in hisctladdr;$/;"	v	typeref:struct:sockaddr_in	file:
+home	ftp/ftplib.c	/^const char *home = "\/";$/;"	v
+home	ftp/ftplib/ftplib.c	/^const char *home = "\/";$/;"	v
+home	ftplib.c	/^const char *home = "\/";$/;"	v
+hookup	ftp.c	/^hookup(char *host, int port)$/;"	f
+hookup	ftp/ftp.c	/^hookup(char *host, int port)$/;"	f
+hookup	ftp/ftplib/ftp.c	/^hookup(char *host, int port)$/;"	f
+hostname	ftp/ftplib/ftp_var.h	/^Extern char	*hostname;	\/* name of host connected to *\/$/;"	v
+hostname	ftp_var.h	/^Extern char	*hostname;	\/* name of host connected to *\/$/;"	v
+i_intr	char.h	/^        char *i_intr;$/;"	v
+initconn	ftp.c	/^initconn(void)$/;"	f	file:
+initconn	ftp/ftp.c	/^initconn(void)$/;"	f	file:
+initconn	ftp/ftplib/ftp.c	/^initconn(void)$/;"	f	file:
+intr	ftp/ftplib.c	/^intr(int ignore)$/;"	f
+intr	ftp/ftplib/ftplib.c	/^intr(int ignore)$/;"	f
+intr	ftplib.c	/^intr(int ignore)$/;"	f
+log_print	logger.c	/^void log_print(char* filename, int line, char *fmt,...)$/;"	f
+log_write	logger.c	/^void log_write(void)$/;"	f
+lostpeer	ftp/ftplib.c	/^lostpeer(int ignore)$/;"	f
+lostpeer	ftp/ftplib/ftplib.c	/^lostpeer(int ignore)$/;"	f
+lostpeer	ftplib.c	/^lostpeer(int ignore)$/;"	f
+lreply	ftp.c	/^char lreply[BUFSIZ];$/;"	v
+lreply	ftp/ftp.c	/^char lreply[BUFSIZ];$/;"	v
+lreply	ftp/ftplib/ftp.c	/^char lreply[BUFSIZ];$/;"	v
+ls	ftp/ftplib/ftp.ml	/^let ls = gls true			(* long ls *)$/;"	v
+main	Read_Config_file.c	/^int main()$/;"	f
+main	example.c	/^int main(int argc, char **argv)$/;"	f
+main	ftp/example.c	/^int main(int argc, char **argv)$/;"	f
+main	ftp/ftplib/example.c	/^int main(int argc, char **argv)$/;"	f
+main	strtok.c	/^int main()$/;"	f
+main	test.c	/^int main()$/;"	f
+main	testing.c	/^int main()$/;"	f
+mapflag	ftp/ftplib/ftp_var.h	/^Extern int	mapflag;	\/* use mapin mapout templates on file names *\/$/;"	v
+mapflag	ftp_var.h	/^Extern int	mapflag;	\/* use mapin mapout templates on file names *\/$/;"	v
+mapin	ftp/ftplib/ftp_var.h	/^Extern char	mapin[MAXPATHLEN];	\/* input map template *\/$/;"	v
+mapin	ftp_var.h	/^Extern char	mapin[MAXPATHLEN];	\/* input map template *\/$/;"	v
+mapout	ftp/ftplib/ftp_var.h	/^Extern char	mapout[MAXPATHLEN];	\/* output map template *\/$/;"	v
+mapout	ftp_var.h	/^Extern char	mapout[MAXPATHLEN];	\/* output map template *\/$/;"	v
+mflag	ftp/ftplib/ftp_var.h	/^Extern int	mflag;		\/* flag: if != 0, then active multi command *\/$/;"	v
+mflag	ftp_var.h	/^Extern int	mflag;		\/* flag: if != 0, then active multi command *\/$/;"	v
+mode	ftp/ftplib/ftp_var.h	/^Extern int	mode;			\/* file transfer mode *\/$/;"	v
+mode	ftp_var.h	/^Extern int	mode;			\/* file transfer mode *\/$/;"	v
+myctladdr	ftp.c	/^static struct sockaddr_in myctladdr;$/;"	v	typeref:struct:sockaddr_in	file:
+myctladdr	ftp/ftp.c	/^static struct sockaddr_in myctladdr;$/;"	v	typeref:struct:sockaddr_in	file:
+myctladdr	ftp/ftplib/ftp.c	/^static struct sockaddr_in myctladdr;$/;"	v	typeref:struct:sockaddr_in	file:
+newtp	logger.c	/^struct termios oldtp, newtp;$/;"	v	typeref:struct:
+nlist	ftp/ftplib/ftp.ml	/^let nlist = gls false			(* name list *)$/;"	v
+ntflag	ftp/ftplib/ftp_var.h	/^Extern int	ntflag;		\/* use ntin ntout tables for name xlation *\/$/;"	v
+ntflag	ftp_var.h	/^Extern int	ntflag;		\/* use ntin ntout tables for name xlation *\/$/;"	v
+ntin	ftp/ftplib/ftp_var.h	/^Extern char	ntin[17];	\/* input translation table *\/$/;"	v
+ntin	ftp_var.h	/^Extern char	ntin[17];	\/* input translation table *\/$/;"	v
+ntout	ftp/ftplib/ftp_var.h	/^Extern char	ntout[17];	\/* output translation table *\/$/;"	v
+ntout	ftp_var.h	/^Extern char	ntout[17];	\/* output translation table *\/$/;"	v
+nz	ftp.c	942;"	d	file:
+nz	ftp/ftp.c	942;"	d	file:
+nz	ftp/ftplib/ftp.c	943;"	d	file:
+oldtp	logger.c	/^struct termios oldtp, newtp;$/;"	v	typeref:struct:termios
+open_port	logger.c	/^void open_port(void)$/;"	f
+options	ftp/ftplib/ftp_var.h	/^Extern int	options;	\/* used during socket creation *\/$/;"	v
+options	ftp_var.h	/^Extern int	options;	\/* used during socket creation *\/$/;"	v
+pasv	ftp/ftplib/ftp_var.h	/^Extern char     pasv[64];       \/* passive port for proxy data connection *\/$/;"	v
+pasv	ftp_var.h	/^Extern char     pasv[64];       \/* passive port for proxy data connection *\/$/;"	v
+print_time	logger.c	/^char* print_time()$/;"	f
+process_entry	example.c	/^int process_entry(char *ent, unsigned len)$/;"	f
+process_entry	ftp/example.c	/^int process_entry(char *ent, unsigned len)$/;"	f
+process_entry	ftp/ftplib/example.c	/^int process_entry(char *ent, unsigned len)$/;"	f
+ptabflg	ftp.c	/^static int ptabflg = 0;$/;"	v	file:
+ptabflg	ftp/ftp.c	/^static int ptabflg = 0;$/;"	v	file:
+ptabflg	ftp/ftplib/ftp.c	/^static int ptabflg = 0;$/;"	v	file:
+ptransfer	ftp.c	/^ptransfer(const char *direction, long bytes, $/;"	f	file:
+ptransfer	ftp/ftp.c	/^ptransfer(const char *direction, long bytes, $/;"	f	file:
+ptransfer	ftp/ftplib/ftp.c	/^ptransfer(const char *direction, long bytes, $/;"	f	file:
+put	ftp/ftplib/ftp.ml	/^let put = gput 0 false$/;"	v
+read_put_buf	ftp/ftplib.c	/^read_put_buf(char *buf, unsigned size)$/;"	f	file:
+read_put_buf	ftp/ftplib/ftplib.c	/^read_put_buf(char *buf, unsigned size)$/;"	f	file:
+read_put_buf	ftplib.c	/^read_put_buf(char *buf, unsigned size)$/;"	f	file:
+recvabort	ftp.c	/^static sigjmp_buf recvabort;$/;"	v	file:
+recvabort	ftp/ftp.c	/^static sigjmp_buf recvabort;$/;"	v	file:
+recvabort	ftp/ftplib/ftp.c	/^static sigjmp_buf recvabort;$/;"	v	file:
+recvrequest	ftp.c	/^recvrequest(const char *cmd, char *remote, int (*out_fct)(char*,unsigned),$/;"	f
+recvrequest	ftp/ftp.c	/^recvrequest(const char *cmd, char *remote, int (*out_fct)(char*,unsigned),$/;"	f
+recvrequest	ftp/ftplib/ftp.c	/^recvrequest(const char *cmd, char *remote, int (*out_fct)(char*,unsigned),$/;"	f
+reply_string	ftp.c	/^char reply_string[BUFSIZ];		\/* last line of previous reply *\/$/;"	v
+reply_string	ftp/ftp.c	/^char reply_string[BUFSIZ];		\/* last line of previous reply *\/$/;"	v
+reply_string	ftp/ftplib/ftp.c	/^char reply_string[BUFSIZ];		\/* last line of previous reply *\/$/;"	v
+reset	ftp.c	/^reset(void)$/;"	f
+reset	ftp/ftp.c	/^reset(void)$/;"	f
+reset	ftp/ftplib/ftp.c	/^reset(void)$/;"	f
+sendabort	ftp.c	/^static sigjmp_buf sendabort;$/;"	v	file:
+sendabort	ftp/ftp.c	/^static sigjmp_buf sendabort;$/;"	v	file:
+sendabort	ftp/ftplib/ftp.c	/^static sigjmp_buf sendabort;$/;"	v	file:
+sendrequest	ftp.c	/^sendrequest(const char *cmd, char *remote, int (*in_fct)(char*,unsigned),$/;"	f
+sendrequest	ftp/ftp.c	/^sendrequest(const char *cmd, char *remote, int (*in_fct)(char*,unsigned),$/;"	f
+sendrequest	ftp/ftplib/ftp.c	/^sendrequest(const char *cmd, char *remote, int (*in_fct)(char*,unsigned),$/;"	f
+structname	ftp/ftplib/ftp_var.h	/^Extern char	structname[32];		\/* name of file transfer structure *\/$/;"	v
+structname	ftp_var.h	/^Extern char	structname[32];		\/* name of file transfer structure *\/$/;"	v
+t_arg	ftp.c	/^	const char *t_arg;$/;"	m	struct:types	file:
+t_arg	ftp/ftp.c	/^	const char *t_arg;$/;"	m	struct:types	file:
+t_arg	ftp/ftplib/ftp.c	/^	const char *t_arg;$/;"	m	struct:types	file:
+t_mode	ftp.c	/^	const char *t_mode;$/;"	m	struct:types	file:
+t_mode	ftp/ftp.c	/^	const char *t_mode;$/;"	m	struct:types	file:
+t_mode	ftp/ftplib/ftp.c	/^	const char *t_mode;$/;"	m	struct:types	file:
+t_name	ftp.c	/^	const char *t_name;$/;"	m	struct:types	file:
+t_name	ftp/ftp.c	/^	const char *t_name;$/;"	m	struct:types	file:
+t_name	ftp/ftplib/ftp.c	/^	const char *t_name;$/;"	m	struct:types	file:
+t_type	ftp.c	/^	int t_type;$/;"	m	struct:types	file:
+t_type	ftp/ftp.c	/^	int t_type;$/;"	m	struct:types	file:
+t_type	ftp/ftplib/ftp.c	/^	int t_type;$/;"	m	struct:types	file:
+toplevel	ftp/ftplib/ftp_var.h	/^Extern sigjmp_buf toplevel;	\/* non-local goto stuff for cmd scanner *\/$/;"	v
+toplevel	ftp_var.h	/^Extern sigjmp_buf toplevel;	\/* non-local goto stuff for cmd scanner *\/$/;"	v
+traceflag	ftp/ftplib.c	/^int traceflag = 0;$/;"	v
+traceflag	ftp/ftplib/ftp_var.h	/^Extern int	traceflag;	\/* trace packets exchanged *\/$/;"	v
+traceflag	ftp/ftplib/ftplib.c	/^int traceflag = 0;$/;"	v
+traceflag	ftp_var.h	/^Extern int	traceflag;	\/* trace packets exchanged *\/$/;"	v
+traceflag	ftplib.c	/^int traceflag = 0;$/;"	v
+tvsub	ftp.c	/^tvsub(struct timeval *tdiff, $/;"	f	file:
+tvsub	ftp/ftp.c	/^tvsub(struct timeval *tdiff, $/;"	f	file:
+tvsub	ftp/ftplib/ftp.c	/^tvsub(struct timeval *tdiff, $/;"	f	file:
+type	ftp/ftplib/ftp_var.h	/^Extern int	type;			\/* requested file transfer type *\/$/;"	v
+type	ftp_var.h	/^Extern int	type;			\/* requested file transfer type *\/$/;"	v
+types	ftp.c	/^struct	types {$/;"	s	file:
+types	ftp.c	/^} types[] = {$/;"	v	typeref:struct:types
+types	ftp/ftp.c	/^struct	types {$/;"	s	file:
+types	ftp/ftp.c	/^} types[] = {$/;"	v	typeref:struct:types
+types	ftp/ftplib/ftp.c	/^struct	types {$/;"	s	file:
+types	ftp/ftplib/ftp.c	/^} types[] = {$/;"	v	typeref:struct:types
+unix_server	ftp/ftplib/ftp_var.h	/^Extern int	unix_server;	\/* server is unix, can use binary for ascii *\/$/;"	v
+unix_server	ftp_var.h	/^Extern int	unix_server;	\/* server is unix, can use binary for ascii *\/$/;"	v
+v_intr	char.h	/^        char *v_sz, *v_intr;$/;"	v
+v_sz	char.h	/^        char *v_sz, *v_intr;$/;"	v
+version	ftp/ftplib/version.h	/^char version[]="ftplib 0.13\/netkit-ftp-0.17";$/;"	v
+version	version.h	/^char version[]="ftplib 0.13\/netkit-ftp-0.17";$/;"	v
+write_get_buf	ftp/ftplib.c	/^write_get_buf(char *buf, unsigned size)$/;"	f	file:
+write_get_buf	ftp/ftplib/ftplib.c	/^write_get_buf(char *buf, unsigned size)$/;"	f	file:
+write_get_buf	ftplib.c	/^write_get_buf(char *buf, unsigned size)$/;"	f	file:
