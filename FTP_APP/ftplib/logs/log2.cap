@@ -1,0 +1,2009 @@
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 2_shanmugam.avi-----------------------
+Loaction ****************  /home/2_sha[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+nmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 build on Sep 29 2[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+011 15:40:54.
+[INFO]	Product Info: i.MX53
+VPU VersiOVIYA IOCTL G FMT IN OV5640--------------------
+on: firmware 13.4.41; libvpu: 5.OVIYA IOCTL G FMT CPM=0
+3.2 
+MFW_GST_VPU_ENCCSI_SENS_CONF = 0x00008900
+ODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+226 Transfer complete.
+3372929 bytes sent in 29.3 secs (1.1e+02 Kbytes/sec)
+---> RNFR 0_shanmugam.avi.tmp
+350 Requested file action pending further information.
+---> RNTO 0_shanmugam.avi
+250 Requested file action okay, file renamed.
+***Enter move SRC = /home/0_shanmugam.avi 
+TGT=/tmp/0_shanmugam.avi
+**********************SRC = /home/0_shanmugam.avi 
+RETURN K====5
+Current FIle Name in else = 1_shanmugam.avi
+---> PASV
+227 Entering Passive Mode (75,101,155,12,4,180)
+---> REST 1
+350 Restarting at 1. Send STORE or RETRIEVE to initiate transfer.
+---> APPE 1_shanmugam.avi.tmp
+150 File status okay; about to open data connection.
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 3_shanmugam.avi-----------------------
+Loaction ****************  /home/3_sha[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+nmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 b[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+uild on Sep 29 2011 15:40:54.
+[INFO]	Product Info: i.MX53
+OVIYA IOCTL G FMT IN OV5640--------------------
+VPU Version: firmware 13.OVIYA IOCTL G FMT CPM=0
+4.41; libvpu: 5.3.2 
+SI_SENS_CONF = 0x00008900
+mMFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+226 Transfer complete.
+3358352 bytes sent in 26.9 secs (1.2e+02 Kbytes/sec)
+---> RNFR 1_shanmugam.avi.tmp
+350 Requested file action pending further information.
+---> RNTO 1_shanmugam.avi
+250 Requested file action okay, file renamed.
+***Enter move SRC = /home/1_shanmugam.avi 
+TGT=/tmp/1_shanmugam.avi
+**********************SRC = /home/1_shanmugam.avi 
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 4_shanmugam.avi-----------------------
+Loaction ****************  /home/4_shanmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 build on Sep 29 2011 15:40:54.
+[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+[INFO]	Product Info: i.MX53
+VPU Version: firmware 13.[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+4.41; libvpu: 5.3.2 
+MFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA IOCTL G FMT IN OV5640--------------------
+OVIYA IOCTL G FMT CPM=0
+CSI_SENS_CONF = 0x00008900
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+RETURN K====6
+Current FIle Name in else = 2_shanmugam.avi
+---> PASV
+227 Entering Passive Mode (75,101,155,12,6,46)
+---> REST 1
+350 Restarting at 1. Send STORE or RETRIEVE to initiate transfer.
+---> APPE 2_shanmugam.avi.tmp
+150 File status okay; about to open data connection.
+
+send aborted
+waiting for remote to finish abort
+226 Transfer complete.
+123269 bytes sent in 1.29 secs (93 Kbytes/sec)
+***Enter move SRC = /home/2_shanmugam.avi 
+TGT=/tmp/2_shanmugam.avi
+**********************SRC = /home/2_shanmugam.avi 
+RETURN K====7
+Current FIle Name in else = 3_shanmugam.avi
+---> PASV
+227 Entering Passive Mode (75,101,155,12,6,229)
+---> REST 1
+350 Restarting at 1. Send STORE or RETRIEVE to initiate transfer.
+---> APPE 3_shanmugam.avi.tmp
+150 File status okay; about to open data connection.
+
+send aborted
+waiting for remote to finish abort
+
+226 Transfer complete.
+438272 bytes sent in 3.5 secs (1.2e+02 Kbytes/sec)
+***Enter move SRC = /home/3_shanmugam.avi 
+TGT=/tmp/3_shanmugam.avi
+**********************SRC = /home/3_shanmugam.avi 
+
+
+RETURN K====8
+Current FIle Name in else = 4_shanmugam.avi
+---> PASV
+
+227 Entering Passive Mode (75,101,155,12,6,111)
+---> REST 1
+350 Restarting at 1. Send STORE or RETRIEVE to initiate transfer.
+---> APPE 4_shanmugam.avi.tmp
+150 File status okay; about to open data connection.
+
+send aborted
+waiting for remote to finish abort
+
+
+
+
+
+
+
+226 Transfer complete.
+Segmentation fault
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ ps
+  PID USER       VSZ STAT COMMAND
+    1 root      2212 S    init
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [events/0]
+    5 root         0 SW   [khelper]
+    8 root         0 SW   [async/mgr]
+    9 root         0 SW   [pm]
+   74 root         0 SW   [usb_wakeup thre]
+   75 root         0 SW   [usb_wakeup thre]
+  211 root         0 SW   [sync_supers]
+  213 root         0 SW   [bdi-default]
+  215 root         0 SW   [kblockd/0]
+  229 root         0 SW   [ata_aux]
+  230 root         0 SW   [ata_sff/0]
+  235 root         0 SW   [otg_switch/0]
+  241 root         0 SW   [khubd]
+  290 root         0 SW   [kmmcd]
+  317 root         0 SW   [rpciod/0]
+  337 root         0 SW   [kswapd0]
+  385 root         0 SW   [aio/0]
+  397 root         0 SW   [nfsiod]
+  403 root         0 SW   [crypto/0]
+ 1017 root         0 SW   [kapmd]
+ 1126 root         0 SW   [kconservative/0]
+ 1131 root         0 SW   [vpu_wq/0]
+ 1140 root         0 SW   [esdhc_wq/0]
+ 1142 root         0 SW   [esdhc_wq/0]
+ 1148 root         0 SW   [usbhid_resumer]
+ 1162 root         0 SW   [mmcqd]
+ 1186 root         0 SW   [l2cap]
+ 1187 root         0 SW<  [krfcommd]
+ 1196 root         0 SW   [kjournald]
+ 1206 root      1768 S <  udevd --daemon
+ 1772 root         0 SW   [flush-179:0]
+ 2221 root      2220 S    /usr/sbin/dropbear
+ 2226 messageb  2424 S    dbus-daemon --system
+ 2232 root      2424 S    /usr/bin/dbus-daemon --fork --print-pid 5 --print-ad
+ 2236 haldaemo  6340 S    hald --daemon=yes
+ 2237 root      3296 S    hald-runner
+ 2241 root      3456 S    hald-addon-input: Listening on /dev/input/event2 /de
+ 2249 root     41788 S    Xfbdev -mouse mouse,2,device=/dev/input/mice
+ 2259 root      2216 S    -sh
+ 2268 root      5088 S    matchbox-window-manager -d :0 -use_lowlight no -use_
+ 2269 root      6480 S    matchbox-desktop
+ 2270 root      5088 S    matchbox-panel --bgtrans yes
+ 2272 root      5076 S    mb-applet-menu-launcher
+ 2273 root      4968 S    mb-applet-clock
+ 2294 root     37300 S    ./arm_testing /dev/input/event0
+ 2304 root      2216 R    ps
+root@freescale /$ mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 5_shanmugam.avi-----------------------
+Loaction ****************  /home/5_sha[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+nmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 b[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+uild on Sep 29 2011 15:40:54.
+[INFO]	Product Info: i.MX53
+OVIYA IOCTL G FMT IN OV5640--------------------
+VPU Version: firmware 13.OVIYA IOCTL G FMT CPM=0
+4.41; libvpu: 5.3.2 
+SI_SENS_CONF = 0x00008900
+mMFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+k[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+ill -9 
+.dbus/          dev/            ip_up.sh        new_orig.mp4    test/
+.matchbox/      etc/            lib/            opt/            tmp/
+arm_testing     example         libftp.a        proc/           unit_tests/
+bin/            ftp.o           log.txt         result-yuv.avi  usr/
+button_press    ftplib.o        lost+found/     root/           var/
+caml.o          hello_world     mnt/            sbin/
+config.txt      home/           new.mp4         sys/
+root@freescale /$ kill -9 ps
+  PID USER       VSZ STAT COMMAND
+    1 root      2212 S    init
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [events/0]
+    5 root         0 SW   [khelper]
+    8 root         0 SW   [async/mgr]
+    9 root         0 SW   [pm]
+   74 root         0 SW   [usb_wakeup thre]
+   75 root         0 SW   [usb_wakeup thre]
+  211 root         0 SW   [sync_supers]
+  213 root         0 SW   [bdi-default]
+  215 root         0 SW   [kblockd/0]
+  229 root         0 SW   [ata_aux]
+  230 root         0 SW   [ata_sff/0]
+  235 root         0 SW   [otg_switch/0]
+  241 root         0 SW   [khubd]
+  290 root         0 SW   [kmmcd]
+  317 root         0 SW   [rpciod/0]
+  337 root         0 SW   [kswapd0]
+  385 root         0 SW   [aio/0]
+  397 root         0 SW   [nfsiod]
+  403 root         0 SW   [crypto/0]
+ 1017 root         0 SW   [kapmd]
+ 1126 root         0 SW   [kconservative/0]
+ 1131 root         0 SW   [vpu_wq/0]
+ 1140 root         0 SW   [esdhc_wq/0]
+ 1142 root         0 SW   [esdhc_wq/0]
+ 1148 root         0 SW   [usbhid_resumer]
+ 1162 root         0 SW   [mmcqd]
+ 1186 root         0 SW   [l2cap]
+ 1187 root         0 SW<  [krfcommd]
+ 1196 root         0 SW   [kjournald]
+ 1206 root      1768 S <  udevd --daemon
+ 1772 root         0 SW   [flush-179:0]
+ 2221 root      2220 S    /usr/sbin/dropbear
+ 2226 messageb  2424 S    dbus-daemon --system
+ 2232 root      2424 S    /usr/bin/dbus-daemon --fork --print-pid 5 --print-ad
+ 2236 haldaemo  6340 S    hald --daemon=yes
+ 2237 root      3296 S    hald-runner
+ 2241 root      3456 S    hald-addon-input: Listening on /dev/input/event2 /de
+ 2249 root     41788 S    Xfbdev -mouse mouse,2,device=/dev/input/mice
+ 2259 root      2216 S    -sh
+ 2268 root      5088 S    matchbox-window-manager -d :0 -use_lowlight no -use_
+ 2269 root      6480 S    matchbox-desktop
+ 2270 root      5088 S    matchbox-panel --bgtrans yes
+ 2272 root      5076 S    mb-applet-menu-launcher
+ 2273 root      4968 S    mb-applet-clock
+ 2294 root     37420 S    ./arm_testing /dev/input/event0
+ 2306 root      2216 R    ps
+root@freescale /$ kill -9 2294
+root@freescale /$ ERROR: v4l2 capture: mxc_v4l_dqueue() interrupt received
+mxc_v4l_close: release resource
+mxc_ipu mxc_ipu: IPU Error - IPU_INT_STAT_10 = 0x00000001
+
+[1]+  Killed                     ./arm_testing /dev/input/event0
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ cd horoot@freescale /$ cd home/
+root@freescale /home$ ls
+4_shanmugam.avi  5_shanmugam.avi
+root@freescale /home$ cd ..
+root@freescale /$ cd /tmroot@freescale /$ cd /tmp/
+root@freescale /tmp$ ls
+(null)           1_shanmugam.avi  3_shanmugam.avi  shanmugam.avi
+0_shanmugam.avi  2_shanmugam.avi  ltib
+root@freescale /tmp$ cd ..
+root@freescale /$ cd horoot@freescale /$ cd home/
+root@freescale /home$ ls
+4_shanmugam.avi  5_shanmugam.avi
+root@freescale /home$ 
+root@freescale /home$ 
+root@freescale /home$ cd rm *.avi
+root@freescale /home$ 
+root@freescale /home$ 
+root@freescale /home$ cd /
+root@freescale /$ 
+
+U-Boot 2009.08 (Apr 02 2012 - 22:03:12)
+
+CPU:   Freescale i.MX53 family 2.1V at 800 MHz
+mx53 pll1: 800MHz
+mx53 pll2: 400MHz
+mx53 pll3: 432MHz
+mx53 pll4: 455MHz
+ipg clock     : 66666666Hz
+ipg per clock : 33333333Hz
+uart clock    : 66666666Hz
+cspi clock    : 108000000Hz
+ahb clock     : 133333333Hz
+axi_a clock   : 400000000Hz
+axi_b clock   : 200000000Hz
+emi_slow clock: 133333333Hz
+ddr clock     : 400000000Hz
+esdhc1 clock  : 80000000Hz
+esdhc2 clock  : 80000000Hz
+esdhc3 clock  : 80000000Hz
+esdhc4 clock  : 80000000Hz
+nfc clock     : 26666666Hz
+OVIYA Board: MX53-APOLO 1.0 Rev. A
+Boot Reason: [POR]
+Boot Device: SD
+I2C:   ready
+DRAM:   1 GB
+MMC:   FSL_ESDHC: 0,FSL_ESDHC: 1
+In:    serial
+Out:   serial
+Err:   serial
+da9052_i2c_is_connected - i2c write success....
+Serial reinitilized!
+Net:   got MAC address from IIM: 00:04:9f:01:dc:48
+FEC0 [PRIME]
+Hit any key to stop autoboot:  3  2  1  0 
+mmc0 is current device
+
+MMC read: dev # 0, block # 2048, count 6144 ... 6144 blocks read: OK
+## Booting kernel from Legacy Image at 70800000 ...
+   Image Name:   Linux-2.6.35.3
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    3120556 Bytes =  3 MB
+   Load Address: 70008000
+   Entry Point:  70008000
+   Verifying Checksum ... OK
+   Loading Kernel Image ... OK
+OK
+
+Starting kernel ...
+
+‰ñ)Áæ)‰ùñ$æ'ÑŒçÀß1Éi1)ù1É)1)éæé—œ/Þ×Î'6‰Ñ.˜Øæ)ÉùñÆæÎ&öÆt))ák	)‰ÑÐ.1'ù))‹6é—oÞØ1æ‰öÙ6ÆÖ/sÀæààïá	Ö‘ÑtæÉ)(!	)4)/&”/&46&”6&$ÖÖ)&6”Á)))/'‰û)ù6	'æÎÖÖ	&)1‰ÉùñÖ‘)/'ØÀÇé6i669æë))æ)	kæ×—áÉ	Éñ9„	!	t	Áiáæ)	)æ—×á‰Éñy×œ/Þ9Ç!Éùñt	Á)é	ÁÉñ)Ñæ))	á)”)'ŽÆÖÖÐ&ù	!é)éùÉùáÉ‰‘ÖÆÉ	á)!áÆ	a	6	Á)ôÉ!)	Ùé)Éá!dùñ)áÉ!$é×.ôÞ.1äáÖ×Ø6ØÉ!Éöù)Éñ9öÆé/0Ø	9)“&&ÖÁ)ñ)á6ùéé	ñ!Æ××lÏ6ùñùá)ëÆ!ÉéÁ†‘Ö&&ùù!éöl1îùÖ—×ØØ—™	dùù!9	É!d9é Éa×ƒÆ	á)Öó!É)ÑÆæ“Þ.1äÑ&†æ6Æ&‰!)É”Áiñ!‰6	)×Æ	á)”ñ!‰)Ñ6ö&ÑÞ.1æ‘öÆ”&Æ&&Éa)É–Áñû!)é4	Á)×Æ	á)Öñ!É)Ñæ–Ö6æÑÞ.qæÑæ„&æ&ÆÆ$É!)‹ÖÁ)éùÉ‘6Ö&”ÐÖ&ÖÐ”æ„ÖÐ†û!	áé)éù‰‘æôÖ&6—æö”&61	Éá	á)áæÆ6$))s)!á6—×.×—l7.É!i	á6—.Þ×,Ö×.wßÉ„×Éù)cÑÖÀÀ€€î)!û$1s11Ö1111	„6Ð€ÀÀÀÎ‰Áé	&111Ö111)ætÐÀÀ€Àé	dqÉÖ”1s)æÖ€ÀÀÀìé	ááù&)Ö1!6&ÖÐÀ€€ÀØù9é)é&Á”)ÑÖtæÖÀÀÀ€àÙé	&9æ)ÖÁ&ÖÐÀ€ÀÀÙùa)á)&9æÖ{æ)ÆÖÐÀÀÀ€ÀÀÞ‘ñÉ!&ÁÖÁ66ö$6Ð€ÀÀÀÀ€Þè)c&Át6ÖÁ6d&4ÐÀÀ€ÀÀÀÞˆ	!	dæ&”Á&)Ö6æ6gá)É‘ö)ñá	ëÆÖ)0˜‰9ñé4&ÆöÞ.1æéÖÑÎÖÖ—ØÙ1‡aé†6))œáØ€ù!)éÖÉ)	É	á&é)	×áié)ñ!	!ÉùññÖÁ&)iØ0çi!Æ)c)!‰ùñö.6!	áá)!6))œ×Þ„É	á)!ñ”Ál)ù)6a	áá)cé6)kÞÆ)c)!‰ùñ—ÞÆÉ	á)añÖÁé)Ö('ÑtæÖÁéö)”×c9	)éÁéÖ(ÀÑñÉ!É	ãÉÑ)!éÁéù)(0æáÉ6)É	á6ùñùái!”ÖÖÖ)6äÑ!ÉùñöÖ&öÑ„ûù!ùñùák6	/o>ÙÁÖ	Öñ	á)aéùñùáiÑ6ùáù)Æ)ééÉÆ)qÉ)ÖÁ	ãÉ	!Éñ9Æ)á	ÉÆ×—ñæþñññÞèäÀù9ùéÉé	‘éÆô&“Áà‹!ù)—ÁÑ†k1	)á!Ñ6döæÖ××—×/7ö€çàáù)ñ!é6	Á)×ÁÆ	áiÖñ!É)‘Ö&”Á))Ï†i.Þ/6œ9ö‰!)$)11)6ù))ñÉÑþßÙéæ)9iá	!ùÑ6ù)ækÉùñæ‘'i!É&k..6ça))!ùaùùáæ	é‰áÉäÖÁÑñÖ	Ö ùùáÑ&6Ð)ÆÖÁ)éd)( ‰kÁùùÑ&‰ÉÉÉ‰ÉÉÉÉ‰ÉÏÖùÉù	!ù)×/)i×ÞÑ)gÎ&).o6çÉùñ&æ‘ÖÁùùÑ&ÉÉÉ‰ÉÉÉÉ‰ÉÉÏ”)6ö	××Ø—)××)×/)Éñy6	(g‘)ÖÁéÆé	)×/6ÁáÉ‘)!ééÁ	”ö	Ù))ù)éé	Öö	™i)ù)é„ÉùÑt)	!)6á	Æ$Éùéä!ÖÁ')6)É!)é—/6Áá‰Ñ)!é))	áiÖé‰ö)(ÆÉ1)Æ—×!)!áÆ&)./6ç‰ùñÑæÑ'€ÈÖ”ÖÖÖÖ”ÖÖÖ–ÖÖÖÖ”ÖÖÖ–”ÖÖÖ”ÖÖÖ–”Àù!kÖÐ!€”ÖÖÖ”ÖÖÖ–”ÖÖÖ”ÖÖÖÖ”ÖÖÖ–ÖÖÖÖ”Ö1ù)×1i6))ñÆÁ‰æ×/6Ç)û)—1)Öó	á)!ö)(Æ‰1)äù–)6„ÖÖÐdù	aéùÖ)6Æ××˜&ù	!á†Á)ö)(æ)ñ!Éùñ×œÖñ	q	Éá	á)„))†û×!9	iÆ×——/0è‰ùñé'ùáö×ö×.Öæ)ñ!Éùñ.qîÉ)öÞ—×Þ/€Ç	ñd)q	Éá	á)äù6k!	‰ñ×—9)é á)	)6ùñqÉ9ù)t×.Þ—lÆùÆÉ	á)ô)(ó!Æ)Öæ)ñ!Éùñù)ÆùñyÆö	ñ!ÆùÖ)éó!&ié	ÉñÆÁ)ö/×lÞÖæ)ñ!Éùñù)öù)á!Æ×—Ù1ÀèùÖ)é)áù9ö)(6ùñ1É96Áù)á!d)&)éù1)aÑÖÁùñ1É9ù)éùéi(6ùñ1É9û))Öé)(Áùù)ô×.ö.&)áù96ùñ1É9æù××œ/öžÆ)1‰æ)ñ!‰ûñé)!Æùæ”)6ùù)ÆÁ)éÆù9i!Á)ë!ë(×—œ/6ùó1É9éùñ1É9û))Ö)(ÖÐ$	éùé)(!é(Æ)1‰)6ùñ1É9ëûñ1Éyù))Öé( y)!)ëù)Ñd)9É!))aæ×.o/sæ1	kÆ‰1)”1ééù)Ñ&){É!))!ä×.//1æq	)ÆÉ1i—oØéùiÑ&)9É!i)!ä×./„)1ÉkÆ‰1)”éÈ	‰Ö&ö)ÎØ)—Þéùññ)!k!ÖÎØd)	!6)kñäÑæ)9)á	!ùÑ„	ÉÖdö	(”&æÆ–‘–)!6Ö)ä×Þ7áÖæ)9)á	aùÑ„	É”&ö	hÎÏä†”Ñ”)!6Ö)æ×Þ7ƒáÖä)9)á	!ù‘Æ	ÉÖ&ö	(ÖÎö&–ÆÖÑ66Ö)!6t”)æ×Þ7ÁáÖÁæ)9iá	!ùÑÆ	ÉÖ&ô	('ÏödÖÆ”Ñ6t–)!&öö–Ö)ä×Þ7ãÖæ)y)á	!ûÑ„	É–dö	(Ö'Ïd„ÖÑtæÖ)a6Ö)æ×ÞwÁáÖƒæ)y)á	!ùÑ„	É–dö	('Ïd„ÖÑtæÖ)a6Ö)æ×ÞwÁáÖÁæ)9)á	!ùÑÆ	ÉÖ&ô	(–gÏ&Æ–‘6ä–)!&öÖÖ)ä×Þ7ãÖä)9)á	!ù‘Æ	ÉÖ&ö	(&&ÆÖÑ6æÖ)!–)æ×Þ7Áá”Áæ)9iá	!ùÑÆ	ÉÖ&ô	(”&&”Æ”Ñ6äÖ”)!ÖÖ)ä×Þ7áÖä)9)á!ù‘Æ	‰Ö&ö	(Öd&ÆÖ‘6æÖ)!6Ö)æ—Þ7ÁáÖÁæ)y)á	!ùÑ„	É”&öÉ)éÙùéù)(Ï”†”Ñ$öÖ”)a&–Ö)æ×Þ7ƒáÖæ)9iá	!ùÑÆ	ÉÖ&ôÉ)é™ù	ÉéÏÖÆÖÑ&ôÖÖi!6”)æ—Þ7ÁáÖÁæ)9)á	!ùÑ†	ÉÖdöÉ)é)Ö(göÀñäéÀøÙ™þÀæéààÀÙ1	!ÖÖ)æ—Þ7ÁáÖÁä)9)á	!ù‘Æ	ÉÖ&ö‰)éÙù	)(Ö&ôÀáðààÀøÙ™þÀçîààÀÙ1	!æöÖ”)æ—Þ7ÁáÖÁ	É”66É(&)9&)	aé	nÁæ)Éùñù)!é)iæ	(&€&)9ÖÖ&1Ö))té&)l.ÞÖÖä”Á))”Ð&),.ÞÖ”–Á))('&).lÞÖ”ÖÖ))„	&)..Þ–Ö&”Á)iÆ$)..Þ”ÖæÖÁ))Æé1&)..œÖÖÖi)ÆÉ&).,ÞÖ–ÖÖ))ÆÉ	d)..žÖÖÖÁÀk)6)(Ð&)l.ÞÖÖs”Á))6$)..Þ”Ö	ÖÁ))6)Ö&)..œÖÖ)Ö))4)Ö.7€ùÀÉ6ÖÁ))„	)Ö.wÀùÀ‰Ö))ÆÆ).wàá	!iÖÖ.wÀùÀ‰ÆÖ))Æ‰á	É&)..6ßñÖÖ.wÀùÀ‰&ÖÑiùéá™Ö&Öƒ))„é1æÖÖ'áÖ×.1ö€áÐàþ	Ö$ÁÆÆÑgØÀéÁæÆÑg!1	ñ)!„Ö×/6é×o.ÁÉ!i!))Æ‰1)æ).ÞœtßñäæŽŒÑÁá)i!ùù!ƒÑ6ù)æk&äÑÖÖ)!‰&).l6ç!))!ù!ùùáæ	éÉá‰6ÖÁá))!ùû!ÁÑÖÐ&€È)1É)ñc6ùññ)!‰ùñ”—ñ	9i—/6áÉÑ)!éá))!ùù!ƒÑ–&ÀçùÙ)!Æ×É)—/6Áá‰Ñ)!é'9É!Éñ9Æùtáù™ù)Öù	/6	”Á)!‰&)..tç!)k!ù!ùûáæ	éÉáÉ&ÖÁ	&ù)c)6	Á)×ÁÆ	áiÖñ!É)‘6&öæ‘Þ.1äÑÖÆ6ô&&‰!)‰”Á(	Ö!	áÉƒ)!×Á„	á)Öñ!É)‘6ö&‘Þ.1äÑ†ÆÖöædÉ!)ÉÖÁ(	&Éñ!×ÁÆ	á)”ñ!‰kÑäÖÖ6æÑžl1æÑäÆ&ä&ÆÆ&É!)ÉÖ(‰ÖÁÆ	á)6ùñ1‰9))cÑ.œ/0Æá‹Á)!6ö&$Éñ!äÖÖ6äÑÁ(	&)ñù&k9É!))!ë)c	—Á†á)Öñ!‹)ÑÖ&ÑÞ.qæÑ„d&Éa)É–Ái!)”/1À	Á„	á)Öñ!É)‘Ö&ÑÞl1æÑÆ&&‰!)‰”Á)!Éd)..6ç!))aù!ùùáæ	éÉáÉÖÁ&é“&)..6ç!))!”!Æ	ñù!”×.9˜)ñÖ&éÑ&)l.6ç!i)!„„	ñù!Ö×.9˜)ñÖ&é‘&).l6ç!))!ÆæhÖ/'‘&	ÙÁ	ññ)á„	ñù!Ö×.yØ)ñ–Á)Öl1ÀÈ‰1)”×.9˜)Æ×—!)!é'!	!Éé×/1æ”Öñ	y)é)ñcæùæ)k	á)‘)' é„É1iÖ×.9Ø)Æ××!k!éç!	é)aù9	!Éñ9„É1)Ö×.9Ø)„××!)!éiæk	ÆÉ1)Ö×.yØ)Æ—×!)!éÉ—Þ‰é	‰ë™ù	.o.Þéù)ù	ù)é1ÉhÖÆ‰1)”×.9˜)Æ×—!)!éÑñ”é4))æ)	))ñÉ„É1)é1‰(Ö)hÖÆ‰1)”×.9˜)Æ×—!)!é1sÉä)‰ûñ&äÎÖñ!‰&Ñ€äààá™æààî€&)!Ö!á×Ø‘ÁÙ9éñÉ—&))ñ6k!Æùæ”ÖÁá9ÑäÖÆ)!æû6!!ñ9ÑÙÞ—.ÇÉ!ù!)qÑÆÉ1)Æ××!k!ñÖƒÑùtÁ)!)á)æ××&)9‰!))!éÑù6Á)c)á)Æ)	cáÉñ)&)9‰!))!éÑùtÁ)!)á)61	d)9É!))!.sÎ	)ácÉÖæ)9iá	!ùÑöi!ÁôÉ!Áæ×.1Þ!‰1É)éÉ6)!!‹ñ9á6)Ö„É1)öÉááæ—/&)Öñ	á)!éÉ6)a!Éñ9ãÆ(Æ‰s)ôÉááä×/$)Öñ	á)!é™Á1ûé)!)Ñ–—.1Àç!Ö”6á		éöÉ)( ™Áù))Öù)iÑ6	ññ)áá)	!ÉÆÉ	á)!ÖÁÙÁù))Öù))‘6Á	ññ)áá)	!ÉÖñÉñÉ!É	áÉ‘)!”Áùóùá)Ñ69‹!Á‰ñ9†û6ùáù)ä	é)&)1q)†)1ÉiÖƒ™1ùé)!)ÑÖ×.1Àç!Ö–æé( ™09	éÙù))Öù))‘6Á	ññ)áá)	!É†‹	á)!ö”ÁÙÁùi)”ù))Ñ4Á	ññiáá)	!‰Öñ‰óÉ!É	áÉÑ)cöÖƒÙÁ1ùé)!)‘æ×”×.1€ç!éÙÁù))Öùi)Ñ6Á	ñó)áá)	aÉÆ‰	ái!ÖÁÙÁùk)”ù))Ñ4Á	ññkáá)	!‹Öñ‰ñÉ!‰	áÉÑ)!”Á'iÉ	áÑÖéo1æñ	áÖ))Æ‰1)éÙÁÉñ!)	!ñ&Æ!‰éÁ!”ÖÖÖ)6äÑœ8Àù€çáÑÀ‘ä))	á)ÑkÁconsole [ttymxc0] enabled, bootconsole disabled
+console [ttymxc0] enabled, bootconsole disabled
+mxcintuart.1: ttymxc1 at MMIO 0x53fc0000 (irq = 32) is a Freescale i.MX
+mxcintuart.2: ttymxc2 at MMIO 0x5000c000 (irq = 33) is a Freescale i.MX
+mxcintuart.3: ttymxc3 at MMIO 0x53ff0000 (irq = 13) is a Freescale i.MX
+mxcintuart.4: ttymxc4 at MMIO 0x63f90000 (irq = 86) is a Freescale i.MX
+loop: module loaded
+MXC MTD nand Driver 3.0
+i.MX GPMI NFC
+vcan: Virtual CAN interface driver
+Freescale FlexCAN Driver 
+FEC Ethernet Driver
+fec_enet_mii_bus: probed
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+fsl-ehci fsl-ehci.0: Freescale On-Chip EHCI Host Controller
+fsl-ehci fsl-ehci.0: new USB bus registered, assigned bus number 1
+fsl-ehci fsl-ehci.0: irq 18, io base 0x53f80000
+fsl-ehci fsl-ehci.0: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 1 port detected
+fsl-ehci fsl-ehci.1: Freescale On-Chip EHCI Host Controller
+fsl-ehci fsl-ehci.1: new USB bus registered, assigned bus number 2
+fsl-ehci fsl-ehci.1: irq 14, io base 0x53f80200
+fsl-ehci fsl-ehci.1: USB 2.0 started, EHCI 1.00
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 1 port detected
+usbcore: registered new interface driver cdc_acm
+cdc_acm: v0.26:USB Abstract Control Model driver for USB modems and ISDN adapters
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+ARC USBOTG Device Controller driver (1 August 2005)
+mice: PS/2 mouse device common for all mice
+input: gpio-keys as /devices/platform/gpio-keys/input/input0
+MXC keypad loaded
+egalax_ts 2-0004: request gpio failed:-16
+egalax_ts 2-0004: egalax_ts: failed to read firmware version
+egalax_ts: probe of 2-0004 failed with error -5
+p1003_fwv33 2-0041: couldn't read panel infomation.
+p1003_fwv33: probe of 2-0041 failed with error -5
+DA9052 TSI Device Driver, v1.0
+da9052_tsi da9052_tsi: da9052_tsi_init_drv: error getting regulator VDD_A
+input: da9052_tsi as /devices/virtual/input/input1
+TSI Drv Successfully Inserted da9052_tsi, 4-wire
+input: da9052-onkey as /devices/platform/imx-i2c.0/i2c-0/0-0048/da9052-onkey/input/input2
+mxc_rtc mxc_rtc.0: rtc core: registered mxc_rtc as rtc0
+i2c /dev entries driver
+IR NEC protocol handler initialized
+IR RC5(x) protocol handler initialized
+IR RC6 protocol handler initialized
+IR JVC protocol handler initialized
+IR Sony protocol handler initialized
+Linux video capture interface: v2.00
+OVIYA MXC INIT FN CPM=0
+OVIYA  init_camera_struct   2611 
+ ov5640 PROBE CPM=0
+OV5640***: ioctl_s_power on=1
+   Setting mclk to 24 MHz
+ov5640_init_mode:write frame_rate=1, frame_rate=0
+ov5640_init_mode:write frame rate=1, modee=0
+OV5640***: ov5640_init_mode
+OVIYA W=640 H=480 ARYSIZE=259 PMODE=1
+OVIYA IOCTL G FMT IN OV5640--------------------
+OVIYA IOCTL G FMT CPM=0
+mxc_v4l2_output mxc_v4l2_output.0: Registered device video1
+usbcore: registered new interface driver uvcvideo
+USB Video Class driver (v0.1.0)
+APM Battery Driver
+  oviya check mma8450 chip ID
+
+ ovi MMA8450 ACCELEROMETER and RESUL:0xf 0xc6 
+mma8450 0-001c: build time Jun 12 2013 13:07:46
+input: mma8450 as /devices/virtual/input/input3
+add mma8450 i2c driver
+ OVIYA MMA8452 INIT OK 0x0
+MXC WatchDog Driver 2.0
+MXC Watchdog # 0 Timer: initial timeout 60 sec
+Bluetooth: Virtual HCI driver ver 1.3
+Bluetooth: HCI UART driver ver 2.2
+Bluetooth: HCIATH3K protocol initialized
+Bluetooth: Generic Bluetooth USB driver ver 0.6
+usbcore: registered new interface driver btusb
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+VPU initialized
+mxc_asrc registered
+gpu mmu disabled
+mxsdhci: MXC Secure Digital Host Controller Interface driver
+mxsdhci: MXC SDHCI Controller Driver. 
+mmc0: SDHCI detect irq 0 irq 1 INTERNAL DMA
+mxsdhci: MXC SDHCI Controller Driver. 
+mmc1: SDHCI detect irq 203 irq 3 INTERNAL DMA
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+Cirrus Logic CS42888 ALSA SoC Codec Driver
+sgtl5000-i2c 1-000a: SGTL5000 revision 17
+mxc_spdif mxc_spdif.0: MXC SPDIF Audio Transmitter
+No device for codec mxc spdif
+No device for DAI mxc spdif
+No device for DAI imx-ssi-1-0
+No device for DAI imx-ssi-1-1
+No device for DAI imx-ssi-2-0
+No device for DAI imx-ssi-2-1
+No device for DAI imx-spdif-dai
+DMA Sound Buffer Allocated: Playback UseIram=1 ext_ram=0 buf->addr=f8016000 buf->area=e0856000 size=24576
+DMA Sound Buffer Allocated: Capture  UseIram=1 ext_ram=1 buf->addr=cf0c0000 buf->area=fabfa000 size=24576
+asoc: SGTL5000 <-> imx-ssi-2-0 mapping ok
+mmc0: new high speed SDHC card at address aaaa
+mmcblk0: mmc0:aaaa SU04G 3.69 GiB 
+ mmcblk0: p1
+DMA Sound Buffer Allocated: Playback UseIram=1 ext_ram=1 buf->addr=cf370000 buf->area=fac00000 size=24576
+asoc: mxc spdif <-> imx-spdif-dai mapping ok
+ALSA device list:
+  #0: imx-3stack (SGTL5000)
+  #1: imx-3stack-spdif (mxc spdif)
+TCP cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20090105 abi 8)
+NET: Registered protocol family 29
+can: raw protocol (rev 20090105)
+can: broadcast manager protocol (rev 20090105 t)
+Bluetooth: L2CAP ver 2.14
+Bluetooth: L2CAP socket layer initialized
+Bluetooth: SCO (Voice Link) ver 0.6
+Bluetooth: SCO socket layer initialized
+Bluetooth: RFCOMM TTY layer initialized
+Bluetooth: RFCOMM socket layer initialized
+Bluetooth: RFCOMM ver 1.11
+Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+Bluetooth: BNEP filters: protocol multicast
+Bluetooth: HIDP (Human Interface Emulation) ver 1.2
+VFP support v0.3: implementor 41 architecture 3 part 30 variant c rev 2
+regulator_init_complete: incomplete constraints, leaving DA9052_BUCK_PERI on
+regulator_init_complete: incomplete constraints, leaving DA9052_BUCK_MEM on
+regulator_init_complete: incomplete constraints, leaving DA9052_BUCK_PRO on
+regulator_init_complete: incomplete constraints, leaving DA9052_BUCK_CORE on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO10 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO9 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO8 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO6 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO5 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO3 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO2 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO1 on
+mxc_rtc mxc_rtc.0: setting system clock to 1970-01-01 00:00:01 UTC (1)
+EXT3-fs: barriers not enabled
+EXT3-fs (mmcblk0p1): warning: maximal mount count reached, running e2fsck is recommended
+kjournald starting.  Commit interval 5 seconds
+EXT3-fs (mmcblk0p1): using internal journal
+EXT3-fs (mmcblk0p1): mounted filesystem with writeback data mode
+VFS: Mounted root (ext3 filesystem) on device 179:1.
+Freeing init memory: 172K
+starting pid 1197, tty '': '/etc/rc.d/rcS'
+Mounting /proc and /sys 
+Starting the hotplug events dispatcher udevd
+Synthesizing initial hotplug events
+Setting the hostname to freescale
+Mounting filesystems
+mount: mounting usbfs on /proc/bus/usb failed: No such file or directory
+Starting the dropbear ssh server: 
+D-Bus per-session daemon address is: unix:abstract=/tmp/dbus-8lh30zJDvl,guid=c41e7c4e21d4a920b44de04e00000007
+gtk: creating gdk-pixbuf.loaders
+pango: creating module list
+starting pid 2237, tty '': '/sbin/getty -L ttymxc0 115200 vt100'
+_XSERVTransSocketOpenCOTSServer: Unable to open socket for inet6
+_XSERVTransOpen: transport open failed for inet6/freescale:0
+_XSERVTransMakeAllCOTSServerListeners: failed to open listener for inet6
+(EE) XKB: Couldn't open rules file /usr/share/X11/xkb/rules/base
+(EE) XKB: No components provided for device Virtual core keyboard
+
+arm-none-linux-gnueabi-gcc (4.4.4_09.06.2010) 4.4.4
+root filesystem built on Thu, 29 Sep 2011 15:54:39 +0800
+Freescale Semiconductor, Inc.
+
+freescale login: matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <Alt>n=next
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <Alt>p=prev
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <Alt>c=close
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <Alt>d=desktop
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <Alt>m=!matchbox-remote -mbmenu
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <ctrl><alt>x=!xterm
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <ctrl><alt>r=!rxvt
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <ctrl><alt>e=!!gpe-calender
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <alt>Tab=next
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <alt><shift>Tab=prev
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <alt>space=taskmenu
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <alt>escape=!matchbox-remote -mbmenu
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <alt>f4=close
+
+matchbox: Cant find a keycode for keysym 65480
+matchbox: ignoring key shortcut f11=fullscreen
+
+Failed to get root pixmap id
+matchbox-desktop: loading /usr/lib/matchbox/desktop/tasks.so with args ( None )
+matchbox-desktop: loading /usr/lib/matchbox/desktop/dotdesktop.so with args ( None )
+user_overides is (nil)
+mb-desktop-dotdesktop: failed to open /usr/local/share/applications
+mb-desktop-dotdesktop: failed to open //.applications
+mb-applet-menu-launcher: bonobo-browser.desktop has no icon, png or name
+mb-applet-menu-launcher: failed to open /usr/local/share/applications
+mb-applet-menu-launcher: failed to open //.applications
+mb-applet-menu-launcher: bonobo-browser.desktop has no icon, png or name
+mb-applet-menu-launcher: failed to open /usr/local/share/applications
+mb-applet-menu-launcher: failed to open //.applications
+
+arm-none-linux-gnueabi-gcc (4.4.4_09.06.2010) 4.4.4
+root filesystem built on Thu, 29 Sep 2011 15:54:39 +0800
+Freescale Semiconductor, Inc.
+
+freescale login: root
+login[2237]: root login on 'ttymxc0'
+
+
+BusyBox v1.18.5 () built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+
+root@freescale ~$ 
+root@freescale ~$ 
+root@freescale ~$ cd /
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ ./iproot@freescale /$ ./ip_up.sh 
+eth0: Freescale FEC PHY driver [Generic PHY] (mii_bus:phy_addr=0:00, irq=-1)
+ifup: interface eth0 already configured
+root@freescale /$ PHY: 0:00 - Link is Up - 100/Full
+
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ rcd /
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ ./arroot@freescale /$ ./arm_testing /deroot@freescale /$ ./arm_testing /dev/inroot@freescale /$ ./arm_testing /dev/input/evroot@freescale /$ ./arm_testing /dev/input/event0root@freescale /$ ./arm_testing /dev/input/event0 &
+root@freescale /$  SHAN CHECK ARGC=2 ARGV=/dev/input/event0
+Input driver version is 1.0.0
+Input device ID: bus 0x19 vendor 0x1 product 0x1 version 0x100
+Input device name: "gpio-keys"
+Supported events:
+  Event type 0 (Sync)
+  Event type 1 (Key)
+    Event code 114 (VolumeDown)
+Testing ... (interrupt to exit)
+ Oviya  gpio_keys_isr  OVIYA Debounce Interval=0
+SHAN RDVAL=32 SIZE=16
+hhhhhhhhhhhhhhhhEnter Start Capture
+Loaction ****************  /home/shanmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 build on Sep 29 2011 15:40:54.
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x150b8 
+[INFO]	Product Info: i.MX53
+VPU Versi[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+on: firmware 13.4.41; libvpu: 5.3.2 
+MFW_GST_VPU_ENCODER_PLUGIN 2.0.OVIYA IOCTL G FMT IN OV5640--------------------
+3 build on Sep 29 2011 15:40:26.OVIYA IOCTL G FMT CPM=0
+
+CSI_SENS_CONF = 0x00008900
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+Running...
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ ./exaroot@freescale /$ ./example &
+root@freescale /$ FILE NAME = shanmugam.avi
+Connected to us1.hostedftp.com.
+220 Service ready for new user.
+---> USER dineshauece@gmail.com
+331 User name okay, need password for dineshauece@gmail.com.
+---> PASS XXXX
+230 User logged in, proceed.
+---> SYST
+215 UNIX Type: Apache FtpServer
+Remote system type is UNIX.
+RETURN K====3
+Current FIle Name in IF = shanmugam.avi
+---> PASV
+227 Entering Passive Mode (75,101,155,12,5,172)
+---> REST 1
+350 Restarting at 1. Send STORE or RETRIEVE to initiate transfer.
+---> APPE shanmugam.avi.tmp
+150 File status okay; about to open data connection.
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 0_shanmugam.avi-----------------------
+Loaction ****************  /home/0_sha[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+nmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 b[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+uild on Sep 29 2011 15:40:54.
+[INFO]	Product Info: i.MX53
+OVIYA IOCTL G FMT IN OV5640--------------------
+VPU Version: firmware 13.OVIYA IOCTL G FMT CPM=0
+4.41; libvpu: 5.3.2 
+SI_SENS_CONF = 0x00008900
+mMFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+
+root@freescale /$ 
+root@freescale /$ mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 1_shanmugam.avi-----------------------
+Loaction ****************  /home/1_sha[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+nmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 b[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+uild on Sep 29 2011 15:40:54.
+[INFO]	Product Info: i.MX53
+OVIYA IOCTL G FMT IN OV5640--------------------
+VPU Version: firmware 13.OVIYA IOCTL G FMT CPM=0
+4.41; libvpu: 5.3.2 
+SI_SENS_CONF = 0x00008900
+mMFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+226 Transfer complete.
+3349241 bytes sent in 28.8 secs (1.1e+02 Kbytes/sec)
+---> RNFR shanmugam.avi.tmp
+350 Requested file action pending further information.
+---> RNTO shanmugam.avi
+250 Requested file action okay, file renamed.
+***Enter move SRC = /home/shanmugam.avi 
+TGT=/tmp/shanmugam.avi
+**********************SRC = /home/shanmugam.avi 
+RETURN K====4
+Current FIle Name in else = 0_shanmugam.avi
+---> PASV
+227 Entering Passive Mode (75,101,155,12,5,232)
+---> REST 1
+350 Restarting at 1. Send STORE or RETRIEVE to initiate transfer.
+---> APPE 0_shanmugam.avi.tmp
+150 File status okay; about to open data connection.
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 2_shanmugam.avi-----------------------
+Loaction ****************  /home/2_sha[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+nmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 b[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+uild on Sep 29 2011 15:40:54.
+[INFO]	Product Info: i.MX53
+OVIYA IOCTL G FMT IN OV5640--------------------
+VPU Version: firmware 13.OVIYA IOCTL G FMT CPM=0
+4.41; libvpu: 5.3.2 
+SI_SENS_CONF = 0x00008900
+mMFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+226 Transfer complete.
+3340119 bytes sent in 28.8 secs (1.1e+02 Kbytes/sec)
+---> RNFR 0_shanmugam.avi.tmp
+350 Requested file action pending further information.
+---> RNTO 0_shanmugam.avi
+250 Requested file action okay, file renamed.
+***Enter move SRC = /home/0_shanmugam.avi 
+TGT=/tmp/0_shanmugam.avi
+**********************SRC = /home/0_shanmugam.avi 
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 3_shanmugam.avi-----------------------
+Loaction ****************  /home/3_shanmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 build on Sep 29 2011 15:40:54.
+[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+[INFO]	Product Info: i.MX53
+VPU Versi[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+on: firmware 13.4.41; libvpu: 5.3.2 
+MFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA IOCTL G FMT IN OV5640--------------------
+OVIYA IOCTL G FMT CPM=0
+CSI_SENS_CONF = 0x00008900
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+RETURN K====5
+Current FIle Name in else = 1_shanmugam.avi
+---> PASV
+227 Entering Passive Mode (75,101,155,12,5,172)
+---> REST 1
+350 Restarting at 1. Send STORE or RETRIEVE to initiate transfer.
+---> APPE 1_shanmugam.avi.tmp
+150 File status okay; about to open data connection.
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 4_shanmugam.avi-----------------------
+Loaction ****************  /home/4_sha[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+nmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 b[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+uild on Sep 29 2011 15:40:54.
+[INFO]	Product Info: i.MX53
+OVIYA IOCTL G FMT IN OV5640--------------------
+VPU Version: firmware 13.OVIYA IOCTL G FMT CPM=0
+4.41; libvpu: 5.3.2 
+SI_SENS_CONF = 0x00008900
+mMFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+226 Transfer complete.
+3342425 bytes sent in 28.3 secs (1.2e+02 Kbytes/sec)
+---> RNFR 1_shanmugam.avi.tmp
+350 Requested file action pending further information.
+---> RNTO 1_shanmugam.avi
+250 Requested file action okay, file renamed.
+***Enter move SRC = /home/1_shanmugam.avi 
+TGT=/tmp/1_shanmugam.avi
+**********************SRC = /home/1_shanmugam.avi 
+RETURN K====6
+Current FIle Name in else = 2_shanmugam.avi
+---> PASV
+227 Entering Passive Mode (75,101,155,12,6,7)
+---> REST 1
+350 Restarting at 1. Send STORE or RETRIEVE to initiate transfer.
+---> APPE 2_shanmugam.avi.tmp
+150 File status okay; about to open data connection.
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 5_shanmugam.avi-----------------------
+Loaction ****************  /home/5_sha[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+nmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 b[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+uild on Sep 29 2011 15:40:54.
+[INFO]	Product Info: i.MX53
+OVIYA IOCTL G FMT IN OV5640--------------------
+VPU Version: firmware 13.OVIYA IOCTL G FMT CPM=0
+4.41; libvpu: 5.3.2 
+SI_SENS_CONF = 0x00008900
+mMFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 6_shanmugam.avi-----------------------
+Loaction ****************  /home/6_sha[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+nmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 b[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+uild on Sep 29 2011 15:40:54.
+[INFO]	Product Info: i.MX53
+OVIYA IOCTL G FMT IN OV5640--------------------
+VPU Version: firmware 13.OVIYA IOCTL G FMT CPM=0
+4.41; libvpu: 5.3.2 
+SI_SENS_CONF = 0x00008900
+mMFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+226 Transfer complete.
+3350693 bytes sent in 28.9 secs (1.1e+02 Kbytes/sec)
+---> RNFR 2_shanmugam.avi.tmp
+350 Requested file action pending further information.
+---> RNTO 2_shanmugam.avi
+250 Requested file action okay, file renamed.
+***Enter move SRC = /home/2_shanmugam.avi 
+TGT=/tmp/2_shanmugam.avi
+**********************SRC = /home/2_shanmugam.avi 
+RETURN K====7
+Current FIle Name in else = 3_shanmugam.avi
+---> PASV
+227 Entering Passive Mode (75,101,155,12,5,155)
+---> REST 1
+350 Restarting at 1. Send STORE or RETRIEVE to initiate transfer.
+---> APPE 3_shanmugam.avi.tmp
+150 File status okay; about to open data connection.
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 7_shanmugam.avi-----------------------
+Loaction ****************  /home/7_sha[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+nmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 b[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+uild on Sep 29 2011 15:40:54.
+[INFO]	Product Info: i.MX53
+OVIYA IOCTL G FMT IN OV5640--------------------
+VPU Version: firmware 13.OVIYA IOCTL G FMT CPM=0
+4.41; libvpu: 5.3.2 
+SI_SENS_CONF = 0x00008900
+mMFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+
+root@freescale /$ ps
+  PID USER       VSZ STAT COMMAND
+    1 root      2212 S    init
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [events/0]
+    5 root         0 SW   [khelper]
+    8 root         0 SW   [async/mgr]
+    9 root         0 SW   [pm]
+   74 root         0 SW   [usb_wakeup thre]
+   75 root         0 SW   [usb_wakeup thre]
+  211 root         0 SW   [sync_supers]
+  213 root         0 SW   [bdi-default]
+  215 root         0 SW   [kblockd/0]
+  229 root         0 SW   [ata_aux]
+  230 root         0 SW   [ata_sff/0]
+  235 root         0 SW   [otg_switch/0]
+  241 root         0 SW   [khubd]
+  290 root         0 SW   [kmmcd]
+  317 root         0 SW   [rpciod/0]
+  337 root         0 SW   [kswapd0]
+  385 root         0 SW   [aio/0]
+  397 root         0 SW   [nfsiod]
+  403 root         0 SW   [crypto/0]
+ 1017 root         0 SW   [kapmd]
+ 1126 root         0 SW   [kconservative/0]
+ 1131 root         0 SW   [vpu_wq/0]
+ 1140 root         0 SW   [esdhc_wq/0]
+ 1142 root         0 SW   [esdhc_wq/0]
+ 1148 root         0 SW   [usbhid_resumer]
+ 1162 root         0 SW   [mmcqd]
+ 1186 root         0 SW   [l2cap]
+ 1187 root         0 SW<  [krfcommd]
+ 1196 root         0 SW   [kjournald]
+ 1206 root      1768 S <  udevd --daemon
+ 1776 root         0 SW   [flush-179:0]
+ 2199 root      2220 S    /usr/sbin/dropbear
+ 2204 messageb  2424 S    dbus-daemon --system
+ 2210 root      2424 S    /usr/bin/dbus-daemon --fork --print-pid 5 --print-ad
+ 2214 haldaemo  6340 S    hald --daemon=yes
+ 2215 root      3296 S    hald-runner
+ 2219 root      3456 S    hald-addon-input: Listening on /dev/input/event2 /de
+ 2227 root     41788 S    Xfbdev -mouse mouse,2,device=/dev/input/mice
+ 2237 root      2216 S    -sh
+ 2242 root      5088 S    matchbox-window-manager -d :0 -use_lowlight no -use_
+ 2243 root      6480 S    matchbox-desktop
+ 2244 root      5088 S    matchbox-panel --bgtrans yes
+ 2246 root      5076 S    mb-applet-menu-launcher
+ 2247 root      4968 S    mb-applet-clock
+ 2252 root     37540 S    ./arm_testing /dev/input/event0
+ 2256 root      2312 S    ./example
+ 2265 root      2216 R    ps
+root@freescale /$ 226 Transfer complete.
+3347065 bytes sent in 28.4 secs (1.2e+02 Kbytes/sec)
+---> RNFR 3_shanmugam.avi.tmp
+350 Requested file action pending further information.
+---> RNTO 3_shanmugam.avi
+250 Requested file action okay, file renamed.
+***Enter move SRC = /home/3_shanmugam.avi 
+TGT=/tmp/3_shanmugam.avi
+**********************SRC = /home/3_shanmugam.avi 
+RETURN K====8
+Current FIle Name in else = 4_shanmugam.avi
+---> PASV
+227 Entering Passive Mode (75,101,155,12,5,40)
+---> REST 1
+350 Restarting at 1. Send STORE or RETRIEVE to initiate transfer.
+---> APPE 4_shanmugam.avi.tmp
+150 File status okay; about to open data connection.
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 8_shanmugam.avi-----------------------
+Loaction ****************  /home/8_sha[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+nmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 b[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+uild on Sep 29 2011 15:40:54.
+[INFO]	Product Info: i.MX53
+OVIYA IOCTL G FMT IN OV5640--------------------
+VPU Version: firmware 13.OVIYA IOCTL G FMT CPM=0
+4.41; libvpu: 5.3.2 
+SI_SENS_CONF = 0x00008900
+mMFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+
+root@freescale /$ 
+root@freescale /$ kill -9 2256
+root@freescale /$ 
+[2]+  Killed                     ./example
+root@freescale /$ 
+root@freescale /$ ps
+  PID USER       VSZ STAT COMMAND
+    1 root      2212 S    init
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [events/0]
+    5 root         0 SW   [khelper]
+    8 root         0 SW   [async/mgr]
+    9 root         0 SW   [pm]
+   74 root         0 SW   [usb_wakeup thre]
+   75 root         0 SW   [usb_wakeup thre]
+  211 root         0 SW   [sync_supers]
+  213 root         0 SW   [bdi-default]
+  215 root         0 SW   [kblockd/0]
+  229 root         0 SW   [ata_aux]
+  230 root         0 SW   [ata_sff/0]
+  235 root         0 SW   [otg_switch/0]
+  241 root         0 SW   [khubd]
+  290 root         0 SW   [kmmcd]
+  317 root         0 SW   [rpciod/0]
+  337 root         0 SW   [kswapd0]
+  385 root         0 SW   [aio/0]
+  397 root         0 SW   [nfsiod]
+  403 root         0 SW   [crypto/0]
+ 1017 root         0 SW   [kapmd]
+ 1126 root         0 SW   [kconservative/0]
+ 1131 root         0 SW   [vpu_wq/0]
+ 1140 root         0 SW   [esdhc_wq/0]
+ 1142 root         0 SW   [esdhc_wq/0]
+ 1148 root         0 SW   [usbhid_resumer]
+ 1162 root         0 SW   [mmcqd]
+ 1186 root         0 SW   [l2cap]
+ 1187 root         0 SW<  [krfcommd]
+ 1196 root         0 SW   [kjournald]
+ 1206 root      1768 S <  udevd --daemon
+ 1776 root         0 SW   [flush-179:0]
+ 2199 root      2220 S    /usr/sbin/dropbear
+ 2204 messageb  2424 S    dbus-daemon --system
+ 2210 root      2424 S    /usr/bin/dbus-daemon --fork --print-pid 5 --print-ad
+ 2214 haldaemo  6340 S    hald --daemon=yes
+ 2215 root      3296 S    hald-runner
+ 2219 root      3456 S    hald-addon-input: Listening on /dev/input/event2 /de
+ 2227 root     41788 S    Xfbdev -mouse mouse,2,device=/dev/input/mice
+ 2237 root      2216 S    -sh
+ 2242 root      5088 S    matchbox-window-manager -d :0 -use_lowlight no -use_
+ 2243 root      6480 S    matchbox-desktop
+ 2244 root      5088 S    matchbox-panel --bgtrans yes
+ 2246 root      5076 S    mb-applet-menu-launcher
+ 2247 root      4968 S    mb-applet-clock
+ 2252 root     37720 S    ./arm_testing /dev/input/event0
+ 2267 root      2216 R    ps
+root@freescale /$ kill -9 2252
+root@freescale /$ ERROR: v4l2 capture: mxc_v4l_dqueue() interrupt received
+mxc_v4l_close: release resource
+mxc_ipu mxc_ipu: IPU Error - IPU_INT_STAT_10 = 0x00000001
+
+[1]+  Killed                     ./arm_testing /dev/input/event0
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+
+U-Boot 2009.08 (Apr 02 2012 - 22:03:12)
+
+CPU:   Freescale i.MX53 family 2.1V at 800 MHz
+mx53 pll1: 800MHz
+mx53 pll2: 400MHz
+mx53 pll3: 432MHz
+mx53 pll4: 455MHz
+ipg clock     : 66666666Hz
+ipg per clock : 33333333Hz
+uart clock    : 66666666Hz
+cspi clock    : 108000000Hz
+ahb clock     : 133333333Hz
+axi_a clock   : 400000000Hz
+axi_b clock   : 200000000Hz
+emi_slow clock: 133333333Hz
+ddr clock     : 400000000Hz
+esdhc1 clock  : 80000000Hz
+esdhc2 clock  : 80000000Hz
+esdhc3 clock  : 80000000Hz
+esdhc4 clock  : 80000000Hz
+nfc clock     : 26666666Hz
+OVIYA Board: MX53-APOLO 1.0 Rev. A
+Boot Reason: [POR]
+Boot Device: SD
+I2C:   ready
+DRAM:   1 GB
+MMC:   FSL_ESDHC: 0,FSL_ESDHC: 1
+In:    serial
+Out:   serial
+Err:   serial
+da9052_i2c_is_connected - i2c write success....
+Serial reinitilized!
+Net:   got MAC address from IIM: 00:04:9f:01:dc:48
+FEC0 [PRIME]
+Hit any key to stop autoboot:  3  2  1  0 
+mmc0 is current device
+
+MMC read: dev # 0, block # 2048, count 6144 ... 6144 blocks read: OK
+## Booting kernel from Legacy Image at 70800000 ...
+   Image Name:   Linux-2.6.35.3
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    3120556 Bytes =  3 MB
+   Load Address: 70008000
+   Entry Point:  70008000
+   Verifying Checksum ... OK
+   Loading Kernel Image ... OK
+OK
+
+Starting kernel ...
+
+Éñ)æ)Éùñ&æ'“ÎÞç€Ðß1‰)1iù1‹)q)éæé×Þ/ž×Î'tÉ‘lØØæiÉùñÆæÎ&ö„6)iá)	kÉ‘.1'û))É6é×/Þ˜qæÉö™6Æ–/1Àæààïá	ÖÑ‘6æÉ)(!	i6)/&Ö/d64&Ö6&&–”)&6Öi)Ïk/'Éù)ù6	'äÎ”Ö	&)sÉÉùñÖÑ)/'Ø€Çé6)66{æé))æ)	)æ×—áÉ	Éñ9„	!	6	iáæ)	)æ—×á‰	Éñy×œ/Þ9‡aÉùñt	Áié	Á‰ó)Ñä))	á)Ö)'ŒÆÖÖÐ&ù	!é)éùÉùáÉ‰ÑÖÆÉá)aáÆ	c	6	Á)ôÉ!)	™é)‰ã!&ùñ)áÉ!dé×.öÞ.1äáÖ×Ø6ØÉaÉöù)Éñ9öÆé/0Ø	9)Ñ&&”Á)ñ)á6ùéé	ñ!Æ×—.Ï6ùóùáiéÆ!‰ëÁ„ÑÖ&&ùù!éö.1îù”—×ØØ—Ù	&ùù!y	É!&9é É!×Æ	á)Öñ!É)ÑÆæ‘Þ.1æ“&Ææ6„&É!)ÉÖÁ)ñ!‰6	Á)—Á†á)Öñ!‹)Ñ6ô&‘Þ.1æ“öÆÖ&Æ&&‰!)É”Áñù!)ét	Ái×ÁÆ	á)–ó!ÉiÑæ”Ö6æÑÞ,1æÑäÆ&ædÆÆ&É!)ÉÖÁ)éùÉÑtÖ&ÖÖ&”ÐÖæÆÖÆù!áé)éùÉÑæö”&6×äöÖ&61	Éá	á)áæ†t&))1)cá4××l××.7.‰!)	á6×.œ×.”×.7ßÉÆ×‰ù)!‘ÖÁ€ÀÀÀîi!ù&111sÖ1111	ÆtÐÀÀÀ€ŒÉÁé	&11sÖ111)æ6ÐÀ€ÀÀé	&1ÉÖÖs1)æ–ÐÀ€€Àîé	ááù&)”q!6&ÖÀÀÀ€Øù9é)é&ÁÖ)ÑÖ6æÖÐÀÀÀÀàÙé	&9ækÖÁ&ÖÐÀ€ÀÀÙùa)á)&9æÖ{æ)ÆÖÐÀÀÀ€ÀÀÞ‘ñÉ!&ÁÖÁ66ö$6Ð€€ÀÀÀ€Þè)Áa&Át6ÖÁ6d&4ÐÀÀ€ÀÀÀÞˆ	!	dæ&–Á&)”6æ6'áiÉÑô)ñá	éÆ”)0ØÉ9ñé6&„öÞl1æé”ÑÎ–”×˜!ëÆ4))ÞáØÀù!)éÖÁÉ)	ÁÉ	á$ë)	—á)é)ñ!	aÉùññ”Á&))˜0ç)!Æ)!i!Éùóö.6!	áã)!4))Þ×ÞÆ‰	ái!ñÖ.)ùi6!	áá)!é6))œÆ)!i!Éùó×žÆÉ	á)!ñÖÁé)”('Ñ6äÖÁÁéô)Ö×!y	)éë–hÀÑñ‰!É	á‰Ñ)!ééù)(0äáÉ6kÉ	á6ùñùá)!Ö”ÖÖ)6æÑaÉùñö”&öÑÁ„ùù!ùñùá)6	//>ÙÁÖ	Öñ	á)!éùñùá)‘6ùáù)†)ééÉÆ)1‰)–Á	á‰	!‰ñ9†)á	ÉÆ××óæüñññÞèæÀù9ùéÉé	ÑéÆö&ÑÁàÉ!ù)×ÁÑ„)1	iá!Ñt&öæÖ×—××/7ôÀçàáù)ñ!é6	Á)×ÁÆ	áiÖñ!É)‘Ö&”Á))Ï„).Þ/4Þ9öÉ!)d)11)6ùƒ))ñÉÑüß™éæ)9)ã	!ùÑ6ù)æ)Éùñæ‘g)!Éd)..6ç!))aù!ùùáæ	éÉáÉæÖÁÑñÖ	Ö ùùá‘&6Ð)†”Áié&)h É)ÁùùÑ&‰ÉÉÉÉ‰ÉÉÉ‰ÉÏÖùÉù	!ù)×/))×œÑ)'Î&i./6ç‰ùñ&äÑÖùù‘&ÉÉ‰ÉÉÉ‰ÉÉÉÉÖ)4ö	××˜×)×—)×o)ñ96	('Ñ)ÖÁÁéÆé	)×o6ÁáÉ‘)!ééÁ	Öö	™k)ù)ëéÁ	–ö	Ù))ù)éÆ‰ûÑ6)	!)6á	Æ&‰ûéæ!”Á')6iÉ!)é×/tÁáÉÑi!é))	á)Öé‹ö)(Æ‰1)„××!)cáÆ$)./6ç‹ùñÑæÑ'€ÈÖÖÖ–”ÖÖÖ”ÖÖÖ–”ÖÖÖ”ÖÖÖ–”ÖÖÖ”ÖÖÖÀù!)Ö!ÀÖÖ”ÖÖÖ–ÖÖÖÖ”ÖÖÖ–”ÖÖÖ”ÖÖÖ–”ÖÖÖqù)—1)4))ñ„ÁÉæ×/4Ç)ù)×1)Öñ	á)!ö)(„É1)æùÖ)tÆÖ”Ð&ù!éûÖ)6†—×Ø$ù	!ãÆÁ)ö)(æ)ñ!Éùñ×Þ–ñ	1	‰á	á)Æ)iÆù×!y	)„×××o0èÉùóé'ùáö—ö×,Öä)ñaÉùñ.1î‰)öÞ×—œ/À‡ñ&)1	‹á	á)æù6)!	Éñ××9)é á)	)4ùñ1‰{ù)6×lÞ×.Æù†‹	á)ö)(ñ!ÆÁ)Öæ)ñaÉùñù)„ùñ9†ö	ñaÆù”)éñ!&)é	ÉñÆÁ)ö/×,ÞÖæ)ñ!Éùñù)öù)ácÆ×—èùÖ)é)áù9ö)(6ùñ1É96Áù)á!d)&)éù1)aÑÖÁùñ1É9ù)éùéi(6ùñ1É9û))Öé)(ùù)ö×.ö.&iáù9tùñ1‰9æû—×Þ/öÞÆ)1É)ä)ñ!Éùñé)aÆùæÖ)tÁùù)ÆÁiéÆù9)!Áié!é(—×Þ/tùñ1‰{éùñ1‰9ù))”Ð)(–&?	éùé)h!é(Æ)qÉ)6ùñ1‰9éùñ1É9ù))ÖÐé( 9)!)Áéù)Ñ&k9É!))!æ×.//1ä1	)Æ‰q)–1ééù)Ñ$)9Éc))aæ×.o/qæ1	kÆ‰1)×/Øéù)Ñ$)9Éc))!æ×.oÆ)1‰)ÆÉ1)ÖéÈ	‰Ö&ökÎØ)×Þéùóñ)a)!–Î˜&)	!6))ñäÑä)9)á	!ù‘Æ	ÉÖ&ö	(Ö&æ„ÖÑÖ)!6Ökæ×œ7Áá”Áæi9)á	!ùÑÆ	ÉÖ&ö	(ÎÏä„ÖÑÖ)c6Öiæ×žwÁá–Áæ)9)á	!ùÑ„	ÉÖdö	(”ÎÏô&Ö†ÖÑt6”)a66Ö)æ×Þ7ÁáÖƒæ)9)á	!ùÑÆ	‹Ö&ô	(gÏö$ÖÆÖ‘64Ö)!&ööÖÖ)ä—Þ7áÖÁæ)9)á	!ùÑ†	ÉÖdö	(”'Ï$†”Ñ4æ”)!6Ö)æ×Þ7ƒáÖä)9)á	!ù‘Æ	‰Ö&ö	('&ÆÖÑ6æÖi!6”)æ—Þ7ÁáÖÁæ)y)á	!ùÑ„	É–&ö	(Ö'Ïd„ÖÑtæÖ)c&ö”Ö)æ×žwÁáÖÁæ)9)á	!ùÑÆ	ÉÖ&ô	(&&Æ–“6ä–)!Ö)ä×Þ7ãÖæ){)á	!ùÑ„	É”&ö	(Ö&&Ö„ÖÑ6æÖÖ)!ÖÖiæ×žwÁá–Áæ)9)á	cùÑÆ	É”&ö	hÖ&&ÆÖÑ6æÖ)!t”)æ×Þ7ÁáÖÁæ)9)á	!ùÑÆ	‰Ö&ö‰)éÙùéù)hÏÖÆÖÑ&ôÖÖ)!&Ö”)æ—Þ7ÁáÖÁä)9)á	!ù‘Æ	ÉÖ&öÉkéÙù	ÉéÏ”„ÖÑdöÖÖ)a6Ö)æ×ÞwÁáÖÁæi9)á	!ùÑÆ	É”&öÉiéÙù)”('öÀñæéÀøÙÙþÀäéàà€Ù1	!ÖÖ)æ×Þ7ƒáÖæ)9)á	aùÑ„	É”&öÉ)éÙù	)(Ö&ö€áðàà€øÙÙþÀçîààÀÙ1	!äöÖÖ)æ×œ7Áá”Á	É”66‹h&)9&)	!é	nƒæ)‹ùñù)cé))ä	(&À&k9”Öd1ÖÁ)k6éd)..ÞÖÖæÖÁ))ÖÐ&k..Þ”ÖÖÁ))(g&)..Þ–ÖÖ”Ák)Æ	&)..œÖÖ&Ö))Æ&).lÞÖ”æÖƒ))Æés&)..Þ–Ö”Á))„É&i..Þ”ÖÖÖÁ)iÆÉ	&)..œÖÖÖÀ))6)(Ð&i..Þ–Ö1”Á))t)d)..žÖÖ	ÖÁ)i6)”&).lÞÖ”)Öƒ))t)Ö,wÀùÀ‰6Ök)Æ	iÖ.7ÀùÀÉ”Á)iÆ„).7àá!)”Ö.7ÀùÀÉ„”Á))„ÉáÉ&)l.6ßñÖ–l7Àù€‹&ÖÁÑ)ùéáÙÖ&Ö)iÆé1æÖ”'á”×.1öÀáÐàü	”&ÁÆ„“'Ø€ëÁæ„“'a1	ñk!Æ”×/té×/lÉ!)!))ÆÉ1)æi.ÞÞ6ŸñææÎÎ“Áá)k!ùù!ÁÑ6ù)ä)&äÑÖÖ)!Éd)..6ç!))aù!ùùáæ	éÉáÉtÖÁá))!ùùaÁÑ”Ð&ÀÈ)1É)ñ!6ùññi!ÉùñÖ×ñ	9)×/6Áá‰Ñ)!éái)!ùù!ÁÑÖÐ&ÀçûÙ)!Æ×‰k—/6áÉÑ)!é'{É!Éñ9„ù6áùÙù))Öù	/6Ù)	Ö)aÉ&)l.6ç!i)!ù!ùùáä	éÉáÉ&ÖÁ	&ù)!)t	Á)×Æ	á)Öñ!É)Ñ6döæÑÞ.sæÑ–„6ö&dÉ!)ÉÖÁ(	Ö!	áÉ)!—Á„	á)Öñ!É)‘6ö&‘Þ.1äÑ†ÆÖöædÉ!)ÉÖÁ(	&Éña×ÁÆ	á)–ñ!ÉiÑæ”Ö6æÑÞl1æÑäÆ&ædÆÆ&É!)ÉÖ(‰ÖƒÆ	á)tùñ1‰9))aÑ.œ/0Æá‰Á)!6ö&&Éñ!äÖÖ6æÑÁ(	&)ñù&)9É!))!é)!×Æ	á)Öñ!É)ÑÖ&ÑÞ.1æ‘Æ&&É!)Ö)!)Öo1ÀÐ	ÁÆ	á)”ñ!‰)Ñ”&‘Þ.1äÑ†$&É!kÉÖƒ)cÉ&)l.6ç!k)!ù!ùùáæ	é‰áÉ–Á&é‘&).l6ç!))!ÖaÆ	ñù!”—.9˜iñÖÁ&é“&)..6ç!))!„†	ñù!”×.9˜)ñÖ$éÑd)..6çc))aÆæ(–o'Ñd	ÙÁ	ññiáÆ	ñù!–—.9˜iñÖÁ)Ö.1ÀÈÉ1)Ö×.yØ)Æ—×!)!é'!	!‰é—/1æ”Öñ	9ié)ñ!æùæ))	ái‘)' éÆ‰1)”×.9˜)Æ×—!)!éç!	é)!ù9	aÉñ9„É1iÖ×.9Ø)Æ××!k!é)æ)	Æ‰1)”×.9˜kÆ×—!)!é‰×œÉé	Éé™ƒù	.o.Þéù)ù	ù)é1É(Ö†É1)Ö×,9Ø)„—×!)aé‘ñÖé6))æ)	k)ñ‰Æ‰s)ésÉ(Ö)(Ö†É1)Ö×,9Ø)„—×!)aé11Éæ)‹ùñ$æÎÖñ!É&‘ÀæààáÙæààìÀ&)!Ö!á—˜ÑÁÙ9éñÉ×&))ñ6)cÆùæÖ”Áá9Ñä”Æ)!æù6!añ9ÑÙÞ—.Ç‰!ù!i1Ñ†É1)Æ××c)!ñ”ÁÑù6Á)!iá)ä××&)9‰!))!éÑùtÁ)!)á)Æ)	!áÉñ)&)9‰!)i!éÑùtÁ)!)á)61	d)9É!))!,sÎ	)ácÉÖæ)9ká	!ùÑök!ÁöÉ!æ×.1Þ!‰1É)é‰6)!cÉñ9á6)ÖÆÉ1)ö‰ááæ—/&iÖñ	á)!éÉ6)!!ÉñyáÆhÐÆ‰1)ôÉááæ×/d)Öñ	á)aé™1ùë)!)ÑÖ—.1ÀçaÖ–6á		éöÉ)h ÙÁù))”ù))ÑtÁ	ññ)áã)	!ÉÆ‰	á)!ÖÁ™Áù))Ö)iÑ6ññ)áák	!ÉÖñÉñ‰!É	áÉÑ)!Öùñùá)‘69ÉaÁÉñ9Æù6ùáùkæ	é)d)11)Æ)sÉ)ÖÙÁ1ùék!)‘Ö×,1Àç!ÖÖäé( Ù09	éÙÁù))–ù))Ñ6	ññ)áá)	!‰ÆÉ	á)!öÖÙ)iÖû))‘6Á	óñ)áá)	!É”ñÉñ‰aÉ	á‰Ñ)!ôÖÁÙÁ1ùé)a)Ñæ×Ö—.1Àç!éÙÁùi)”ù))Ñ4Á	ññkáá)	!‰ÆÉ	á)a–Á™Áù))Öù)kÑ6	ññ)ãá)	!‰ÖñÉñÉ!É	áÉÑ)!ÖÁ')‰áÑ”é/1æñ	áÖi	)„É1)é™ÁÉña)	!ó&„!ÉéaÖÖÖ”)6æ“Þ8€ûÀçá‘ÀÑæ))	á)‘)console [ttymxc0] enabled, bootconsole disabled
+console [ttymxc0] enabled, bootconsole disabled
+mxcintuart.1: ttymxc1 at MMIO 0x53fc0000 (irq = 32) is a Freescale i.MX
+mxcintuart.2: ttymxc2 at MMIO 0x5000c000 (irq = 33) is a Freescale i.MX
+mxcintuart.3: ttymxc3 at MMIO 0x53ff0000 (irq = 13) is a Freescale i.MX
+mxcintuart.4: ttymxc4 at MMIO 0x63f90000 (irq = 86) is a Freescale i.MX
+loop: module loaded
+MXC MTD nand Driver 3.0
+i.MX GPMI NFC
+vcan: Virtual CAN interface driver
+Freescale FlexCAN Driver 
+FEC Ethernet Driver
+fec_enet_mii_bus: probed
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+fsl-ehci fsl-ehci.0: Freescale On-Chip EHCI Host Controller
+fsl-ehci fsl-ehci.0: new USB bus registered, assigned bus number 1
+fsl-ehci fsl-ehci.0: irq 18, io base 0x53f80000
+fsl-ehci fsl-ehci.0: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 1 port detected
+fsl-ehci fsl-ehci.1: Freescale On-Chip EHCI Host Controller
+fsl-ehci fsl-ehci.1: new USB bus registered, assigned bus number 2
+fsl-ehci fsl-ehci.1: irq 14, io base 0x53f80200
+fsl-ehci fsl-ehci.1: USB 2.0 started, EHCI 1.00
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 1 port detected
+usbcore: registered new interface driver cdc_acm
+cdc_acm: v0.26:USB Abstract Control Model driver for USB modems and ISDN adapters
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+ARC USBOTG Device Controller driver (1 August 2005)
+mice: PS/2 mouse device common for all mice
+input: gpio-keys as /devices/platform/gpio-keys/input/input0
+MXC keypad loaded
+egalax_ts 2-0004: request gpio failed:-16
+egalax_ts 2-0004: egalax_ts: failed to read firmware version
+egalax_ts: probe of 2-0004 failed with error -5
+p1003_fwv33 2-0041: couldn't read panel infomation.
+p1003_fwv33: probe of 2-0041 failed with error -5
+DA9052 TSI Device Driver, v1.0
+da9052_tsi da9052_tsi: da9052_tsi_init_drv: error getting regulator VDD_A
+input: da9052_tsi as /devices/virtual/input/input1
+TSI Drv Successfully Inserted da9052_tsi, 4-wire
+input: da9052-onkey as /devices/platform/imx-i2c.0/i2c-0/0-0048/da9052-onkey/input/input2
+mxc_rtc mxc_rtc.0: rtc core: registered mxc_rtc as rtc0
+i2c /dev entries driver
+IR NEC protocol handler initialized
+IR RC5(x) protocol handler initialized
+IR RC6 protocol handler initialized
+IR JVC protocol handler initialized
+IR Sony protocol handler initialized
+Linux video capture interface: v2.00
+OVIYA MXC INIT FN CPM=0
+OVIYA  init_camera_struct   2611 
+ ov5640 PROBE CPM=0
+OV5640***: ioctl_s_power on=1
+   Setting mclk to 24 MHz
+ov5640_init_mode:write frame_rate=1, frame_rate=0
+ov5640_init_mode:write frame rate=1, modee=0
+OV5640***: ov5640_init_mode
+OVIYA W=640 H=480 ARYSIZE=259 PMODE=1
+OVIYA IOCTL G FMT IN OV5640--------------------
+OVIYA IOCTL G FMT CPM=0
+mxc_v4l2_output mxc_v4l2_output.0: Registered device video1
+usbcore: registered new interface driver uvcvideo
+USB Video Class driver (v0.1.0)
+APM Battery Driver
+  oviya check mma8450 chip ID
+
+ ovi MMA8450 ACCELEROMETER and RESUL:0xf 0xc6 
+mma8450 0-001c: build time Jun 12 2013 13:07:46
+input: mma8450 as /devices/virtual/input/input3
+add mma8450 i2c driver
+ OVIYA MMA8452 INIT OK 0x0
+MXC WatchDog Driver 2.0
+MXC Watchdog # 0 Timer: initial timeout 60 sec
+Bluetooth: Virtual HCI driver ver 1.3
+Bluetooth: HCI UART driver ver 2.2
+Bluetooth: HCIATH3K protocol initialized
+Bluetooth: Generic Bluetooth USB driver ver 0.6
+usbcore: registered new interface driver btusb
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+VPU initialized
+mxc_asrc registered
+gpu mmu disabled
+mxsdhci: MXC Secure Digital Host Controller Interface driver
+mxsdhci: MXC SDHCI Controller Driver. 
+mmc0: SDHCI detect irq 0 irq 1 INTERNAL DMA
+mxsdhci: MXC SDHCI Controller Driver. 
+mmc1: SDHCI detect irq 203 irq 3 INTERNAL DMA
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+Cirrus Logic CS42888 ALSA SoC Codec Driver
+sgtl5000-i2c 1-000a: SGTL5000 revision 17
+mxc_spdif mxc_spdif.0: MXC SPDIF Audio Transmitter
+No device for codec mxc spdif
+No device for DAI mxc spdif
+No device for DAI imx-ssi-1-0
+No device for DAI imx-ssi-1-1
+No device for DAI imx-ssi-2-0
+No device for DAI imx-ssi-2-1
+No device for DAI imx-spdif-dai
+DMA Sound Buffer Allocated: Playback UseIram=1 ext_ram=0 buf->addr=f8016000 buf->area=e0856000 size=24576
+DMA Sound Buffer Allocated: Capture  UseIram=1 ext_ram=1 buf->addr=cf130000 buf->area=fabfa000 size=24576
+asoc: SGTL5000 <-> imx-ssi-2-0 mapping ok
+mmc0: new high speed SDHC card at address aaaa
+mmcblk0: mmc0:aaaa SU04G 3.69 GiB 
+ mmcblk0: p1
+DMA Sound Buffer Allocated: Playback UseIram=1 ext_ram=1 buf->addr=cf370000 buf->area=fac00000 size=24576
+asoc: mxc spdif <-> imx-spdif-dai mapping ok
+ALSA device list:
+  #0: imx-3stack (SGTL5000)
+  #1: imx-3stack-spdif (mxc spdif)
+TCP cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20090105 abi 8)
+NET: Registered protocol family 29
+can: raw protocol (rev 20090105)
+can: broadcast manager protocol (rev 20090105 t)
+Bluetooth: L2CAP ver 2.14
+Bluetooth: L2CAP socket layer initialized
+Bluetooth: SCO (Voice Link) ver 0.6
+Bluetooth: SCO socket layer initialized
+Bluetooth: RFCOMM TTY layer initialized
+Bluetooth: RFCOMM socket layer initialized
+Bluetooth: RFCOMM ver 1.11
+Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+Bluetooth: BNEP filters: protocol multicast
+Bluetooth: HIDP (Human Interface Emulation) ver 1.2
+VFP support v0.3: implementor 41 architecture 3 part 30 variant c rev 2
+regulator_init_complete: incomplete constraints, leaving DA9052_BUCK_PERI on
+regulator_init_complete: incomplete constraints, leaving DA9052_BUCK_MEM on
+regulator_init_complete: incomplete constraints, leaving DA9052_BUCK_PRO on
+regulator_init_complete: incomplete constraints, leaving DA9052_BUCK_CORE on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO10 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO9 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO8 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO6 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO5 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO3 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO2 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO1 on
+mxc_rtc mxc_rtc.0: setting system clock to 1970-01-01 00:00:01 UTC (1)
+EXT3-fs: barriers not enabled
+EXT3-fs (mmcblk0p1): warning: maximal mount count reached, running e2fsck is recommended
+kjournald starting.  Commit interval 5 seconds
+EXT3-fs (mmcblk0p1): using internal journal
+EXT3-fs (mmcblk0p1): mounted filesystem with writeback data mode
+VFS: Mounted root (ext3 filesystem) on device 179:1.
+Freeing init memory: 172K
+starting pid 1197, tty '': '/etc/rc.d/rcS'
+Mounting /proc and /sys 
+Starting the hotplug events dispatcher udevd
+Synthesizing initial hotplug events
+Setting the hostname to freescale
+Mounting filesystems
+mount: mounting usbfs on /proc/bus/usb failed: No such file or directory
+Starting the dropbear ssh server: 
+D-Bus per-session daemon address is: unix:abstract=/tmp/dbus-bUsmtjKbKF,guid=fbb3b01b16cbeade6b0d0e3300000007
+gtk: creating gdk-pixbuf.loaders
+pango: creating module list
+starting pid 2246, tty '': '/sbin/getty -L ttymxc0 115200 vt100'
+_XSERVTransSocketOpenCOTSServer: Unable to open socket for inet6
+_XSERVTransOpen: transport open failed for inet6/freescale:0
+_XSERVTransMakeAllCOTSServerListeners: failed to open listener for inet6
+(EE) XKB: Couldn't open rules file /usr/share/X11/xkb/rules/base
+(EE) XKB: No components provided for device Virtual core keyboard
+
+arm-none-linux-gnueabi-gcc (4.4.4_09.06.2010) 4.4.4
+root filesystem built on Thu, 29 Sep 2011 15:54:39 +0800
+Freescale Semiconductor, Inc.
+
+freescale login: root
+login[2246]: root login on 'ttymxc0'
+
+
+BusyBox v1.18.5 () built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+
+root@freescale ~$ cd /
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <Alt>n=next
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <Alt>p=prev
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <Alt>c=close
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <Alt>d=desktop
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <Alt>m=!matchbox-remote -mbmenu
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <ctrl><alt>x=!xterm
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <ctrl><alt>r=!rxvt
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <ctrl><alt>e=!!gpe-calender
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <alt>Tab=next
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <alt><shift>Tab=prev
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <alt>space=taskmenu
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <alt>escape=!matchbox-remote -mbmenu
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <alt>f4=close
+
+matchbox: Cant find a keycode for keysym 65480
+matchbox: ignoring key shortcut f11=fullscreen
+
+./Failed to get root pixmap id
+matchbox-desktop: loading /usr/lib/matchbox/desktop/tasks.so with args ( None )
+matchbox-desktop: loading /usr/lib/matchbox/desktop/dotdesktop.so with args ( None )
+
+-sh: ./: Permission denied
+root@freescale /$ user_overides is (nil)
+mb-desktop-dotdesktop: failed to open /usr/local/share/applications
+mb-desktop-dotdesktop: failed to open //.applications
+
+root@freescale /$ mb-applet-menu-launcher: bonobo-browser.desktop has no icon, png or name
+mb-applet-menu-launcher: failed to open /usr/local/share/applications
+mb-applet-menu-launcher: failed to open //.applications
+mb-applet-menu-launcher: bonobo-browser.desktop has no icon, png or name
+mb-applet-menu-launcher: failed to open /usr/local/share/applications
+mb-applet-menu-launcher: failed to open //.applications
+
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ ./arroot@freescale /$ ./arm_testing /deroot@freescale /$ ./arm_testing /dev/inroot@freescale /$ ./arm_testing /dev/input/evroot@freescale /$ ./arm_testing /dev/input/event0root@freescale /$ ./arm_testing /dev/input/event0 &rm /horoot@freescale /$ rm /home/*.avi
+root@freescale /$ rm /tmroot@freescale /$ rm /tmp/*.avi
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ ./arroot@freescale /$ ./arm_testing /deroot@freescale /$ ./arm_testing /dev/uinroot@freescale /$ ./arm_testing /dev/input/evroot@freescale /$ ./arm_testing /dev/input/event0root@freescale /$ ./arm_testing /dev/input/event0 &
+root@freescale /$  SHAN CHECK ARGC=2 ARGV=/dev/input/event0
+Input driver version is 1.0.0
+Input device ID: bus 0x19 vendor 0x1 product 0x1 version 0x100
+Input device name: "gpio-keys"
+Supported events:
+  Event type 0 (Sync)
+  Event type 1 (Key)
+    Event code 114 (VolumeDown)
+Testing ... (interrupt to exit)
+ Oviya  gpio_keys_isr  OVIYA Debounce Interval=0
+SHAN RDVAL=32 SIZE=16
+hhhhhhhhhhhhhhhhEnter Start Capture
+Loaction ****************  /home/shanmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 build on Sep 29 2011 15:40:54.
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x150b8 
+[INFO]	Product Info: i.MX53
+VPU Versi[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+on: firmware 13.4.41; libvpu: 5.3.2 
+MFW_GST_VPU_ENCODER_PLUGIN 2.0.OVIYA IOCTL G FMT IN OV5640--------------------
+3 build on Sep 29 2011 15:40:26.OVIYA IOCTL G FMT CPM=0
+
+CSI_SENS_CONF = 0x00008900
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+Running...
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ ./exaroot@freescale /$ ./example 
+FILE NAME = shanmugam.avi
+ftp: shan.hostedftp.com: Host name lookup failure
+ftp_open
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ ./iproot@freescale /$ ./ip_up.sh 
+eth0: Freescale FEC PHY driver [Generic PHY] (mii_bus:phy_addr=0:00, irq=-1)
+ifup: interface eth0 already configured
+root@freescale /$ 
+root@freescale /$ PHY: 0:00 - Link is Up - 100/Full
+
+root@freescale /$ 
+root@freescale /$ root@freescale /$ ./ip_up.sh root@freescale /$ ./example 
+FILE NAME = shanmugam.avi
+Connected to us1.hostedftp.com.
+220 Service ready for new user.
+---> USER dineshauece@gmail.com
+331 User name okay, need password for dineshauece@gmail.com.
+---> PASS XXXX
+230 User logged in, proceed.
+---> SYST
+215 UNIX Type: Apache FtpServer
+Remote system type is UNIX.
+RETURN K====3
+Current FIle Name in IF = shanmugam.avi
+---> PASV
+227 Entering Passive Mode (204,236,238,164,6,76)
+---> REST 1
+350 Restarting at 1. Send STORE or RETRIEVE to initiate transfer.
+---> APPE shanmugam.avi.tmp
+150 File status okay; about to open data connection.
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 0_shanmugam.avi-----------------------
+Loaction ****************  /home/0_sha[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+nmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 b[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+uild on Sep 29 2011 15:40:54.
+[INFO]	Product Info: i.MX53
+OVIYA IOCTL G FMT IN OV5640--------------------
+VPU Version: firmware 13.OVIYA IOCTL G FMT CPM=0
+4.41; libvpu: 5.3.2 
+SI_SENS_CONF = 0x00008900
+mMFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 1_shanmugam.avi-----------------------
+Loaction ****************  /home/1_sha[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+nmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 b[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+uild on Sep 29 2011 15:40:54.
+[INFO]	Product Info: i.MX53
+OVIYA IOCTL G FMT IN OV5640--------------------
+VPU Version: firmware 13.OVIYA IOCTL G FMT CPM=0
+4.41; libvpu: 5.3.2 
+SI_SENS_CONF = 0x00008900
+mMFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+226 Transfer complete.
+3331855 bytes sent in 27.2 secs (1.2e+02 Kbytes/sec)
+---> RNFR shanmugam.avi.tmp
+350 Requested file action pending further information.
+---> RNTO shanmugam.avi
+250 Requested file action okay, file renamed.
+***Enter move SRC = /home/shanmugam.avi 
+TGT=/tmp/shanmugam.avi
+**********************SRC = /home/shanmugam.avi 
+RETURN K====4
+Current FIle Name in else = 0_shanmugam.avi
+---> PASV
+227 Entering Passive Mode (204,236,238,164,5,84)
+---> REST 1
+350 Restarting at 1. Send STORE or RETRIEVE to initiate transfer.
+---> APPE 0_shanmugam.avi.tmp
+150 File status okay; about to open data connection.
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 2_shanmugam.avi-----------------------
+Loaction ****************  /home/2_sha[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+nmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 b[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+uild on Sep 29 2011 15:40:54.
+[INFO]	Product Info: i.MX53
+OVIYA IOCTL G FMT IN OV5640--------------------
+VPU Version: firmware 13.OVIYA IOCTL G FMT CPM=0
+4.41; libvpu: 5.3.2 
+SI_SENS_CONF = 0x00008900
+mMFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+226 Transfer complete.
+3338021 bytes sent in 28.1 secs (1.2e+02 Kbytes/sec)
+---> RNFR 0_shanmugam.avi.tmp
+350 Requested file action pending further information.
+---> RNTO 0_shanmugam.avi
+250 Requested file action okay, file renamed.
+***Enter move SRC = /home/0_shanmugam.avi 
+TGT=/tmp/0_shanmugam.avi
+**********************SRC = /home/0_shanmugam.avi 
+RETURN K====5
+Current FIle Name in else = 1_shanmugam.avi
+---> PASV
+227 Entering Passive Mode (204,236,238,164,7,51)
+---> REST 1
+350 Restarting at 1. Send STORE or RETRIEVE to initiate transfer.
+---> APPE 1_shanmugam.avi.tmp
+150 File status okay; about to open data connection.
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 3_shanmugam.avi-----------------------
+Loaction ****************  /home/3_sha[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+nmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 b[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+uild on Sep 29 2011 15:40:54.
+[INFO]	Product Info: i.MX53
+OVIYA IOCTL G FMT IN OV5640--------------------
+VPU Version: firmware 13.OVIYA IOCTL G FMT CPM=0
+4.41; libvpu: 5.3.2 
+SI_SENS_CONF = 0x00008900
+mMFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+
+
+
+send aborted
+waiting for remote to finish abort
+226 Transfer complete.
+2121728 bytes sent in 19.2 secs (1.1e+02 Kbytes/sec)
+***Enter move SRC = /home/1_shanmugam.avi 
+TGT=/tmp/1_shanmugam.avi
+**********************SRC = /home/1_shanmugam.avi 
+RETURN K====6
+Current FIle Name in else = 2_shanmugam.avi
+---> PASV
+227 Entering Passive Mode (204,236,238,164,5,252)
+---> REST 1
+350 Restarting at 1. Send STORE or RETRIEVE to initiate transfer.
+---> APPE 2_shanmugam.avi.tmp
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 4_shanmugam.avi-----------------------
+Loaction ****************  /home/4_sha[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+nmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 b[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+uild on Sep 29 2011 15:40:54.
+[INFO]	Product Info: i.MX53
+OVIYA IOCTL G FMT IN OV5640--------------------
+VPU Version: firmware 13.OVIYA IOCTL G FMT CPM=0
+4.41; libvpu: 5.3.2 
+SI_SENS_CONF = 0x00008900
+mMFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+150 File status okay; about to open data connection.
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+
+
+send aborted
+waiting for remote to finish abort
+
+
+
+
+226 Transfer complete.
+Segmentation fault
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ ps
+  PID USER       VSZ STAT COMMAND
+    1 root      2212 S    init
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [events/0]
+    5 root         0 SW   [khelper]
+    8 root         0 SW   [async/mgr]
+    9 root         0 SW   [pm]
+   74 root         0 SW   [usb_wakeup thre]
+   75 root         0 SW   [usb_wakeup thre]
+  211 root         0 SW   [sync_supers]
+  213 root         0 SW   [bdi-default]
+  215 root         0 SW   [kblockd/0]
+  229 root         0 SW   [ata_aux]
+  230 root         0 SW   [ata_sff/0]
+  235 root         0 SW   [otg_switch/0]
+  241 root         0 SW   [khubd]
+  290 root         0 SW   [kmmcd]
+  317 root         0 SW   [rpciod/0]
+  337 root         0 SW   [kswapd0]
+  385 root         0 SW   [aio/0]
+  397 root         0 SW   [nfsiod]
+  403 root         0 SW   [crypto/0]
+ 1017 root         0 SW   [kapmd]
+ 1126 root         0 SW   [kconservative/0]
+ 1131 root         0 SW   [vpu_wq/0]
+ 1140 root         0 SW   [esdhc_wq/0]
+ 1142 root         0 SW   [esdhc_wq/0]
+ 1148 root         0 SW   [usbhid_resumer]
+ 1162 root         0 SW   [mmcqd]
+ 1186 root         0 SW   [l2cap]
+ 1187 root         0 SW<  [krfcommd]
+ 1196 root         0 SW   [kjournald]
+ 1206 root      1768 S <  udevd --daemon
+ 1749 root         0 SW   [flush-179:0]
+ 2208 root      2220 S    /usr/sbin/dropbear
+ 2213 messageb  2424 S    dbus-daemon --system
+ 2219 root      2424 S    /usr/bin/dbus-daemon --fork --print-pid 5 --print-ad
+ 2223 haldaemo  6340 S    hald --daemon=yes
+ 2224 root      3296 S    hald-runner
+ 2228 root      3456 S    hald-addon-input: Listening on /dev/input/event2 /de
+ 2236 root     41788 S    Xfbdev -mouse mouse,2,device=/dev/input/mice
+ 2246 root      2216 S    -sh
+ 2251 root      5088 S    matchbox-window-manager -d :0 -use_lowlight no -use_
+ 2252 root      6480 S    matchbox-desktop
+ 2253 root      5088 S    matchbox-panel --bgtrans yes
+ 2255 root      5076 S    mb-applet-menu-launcher
+ 2257 root      4968 S    mb-applet-clock
+ 2260 root     37360 S    ./arm_testing /dev/input/event0
+ 2275 root      2216 R    ps
+root@freescale /$ kill -9 2260
+ERROR: v4l2 capture: mxc_v4l_dqueue() interrupt received
+root@freescale /$ mxc_v4l_close: release resource
+mxc_ipu mxc_ipu: IPU Error - IPU_INT_STAT_10 = 0x00000001
+
+[1]+  Killed                     ./arm_testing /dev/input/event0
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+
+U-Boot 2009.08 (Apr 02 2012 - 22:03:12)
+
+CPU:   Freescale i.MX53 family 2.1V at 800 MHz
+mx53 pll1: 800MHz
+mx53 pll2: 400MHz
+mx53 pll3: 432MHz
+mx53 pll4: 455MHz
+ipg clock     : 66666666Hz
+ipg per clock : 33333333Hz
+uart clock    : 66666666Hz
+cspi clock    : 108000000Hz
+ahb clock     : 133333333Hz
+axi_a clock   : 400000000Hz
+axi_b clock   : 200000000Hz
+emi_slow clock: 133333333Hz
+ddr clock     : 400000000Hz
+esdhc1 clock  : 80000000Hz
+esdhc2 clock  : 80000000Hz
+esdhc3 clock  : 80000000Hz
+esdhc4 clock  : 80000000Hz
+nfc clock     : 26666666Hz
+OVIYA Board: MX53-APOLO 1.0 Rev. A
+Boot Reason: [POR]
+Boot Device: SD
+I2C:   ready
+DRAM:   1 GB
+MMC:   FSL_ESDHC: 0,FSL_ESDHC: 1
+In:    serial
+Out:   serial
+Err:   serial
+da9052_i2c_is_connected - i2c write success....
+Serial reinitilized!
+Net:   got MAC address from IIM: 00:04:9f:01:dc:48
+FEC0 [PRIME]
+Hit any key to stop autoboot:  3  2 

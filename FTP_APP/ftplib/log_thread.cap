@@ -1,0 +1,367 @@
+ Oviya  gpio_keys_isr  SHAN RDVAL=32 SIZE=16
+Enter main Thread
+Enter Start Capture
+Enter stop button thread
+Loaction ****************  /video/shanmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 build on Sep 29 2011 15:40:54.
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x150b8 
+[INFO]	Product Info: i.MX53
+VPU Versi[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+on: firmware 13.4.41; libvpu: 5.3.2 
+MFW_GST_VPU_ENCODER_PLUGIN 2.0.OVIYA IOCTL G FMT IN OV5640--------------------
+3 build on Sep 29 2011 15:40:26.OVIYA IOCTL G FMT CPM=0
+
+CSI_SENS_CONF = 0x00008900
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+Running...
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+ Oviya  gpio_keys_isr   Oviya  gpio_keys_isr   Oviya  gpio_keys_isr   Oviya  gpio_keys_isr   Oviya  gpio_keys_isr   Oviya  gpio_keys_isr   Oviya  gpio_keys_isr   Oviya  gpio_keys_isr   Oviya  gpio_keys_isr   Oviya  gpio_keys_isr   Oviya  gpio_keys_isr   Oviya  gpio_keys_isr   Oviya  gpio_keys_isr   Oviya  gpio_keys_isr   Oviya  gpio_keys_isr  
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 0_shanmugam.avi-----------------------
+Loaction ****************  /video/0_shanmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 build on Sep 29 2011 15:40:54.
+[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+[INFO]	Product Info: i.MX53
+VPU Versi[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+on: firmware 13.4.41; libvpu: 5.3.2 
+MFW_GST_VPU_ENCODER_PLUGIN 2.0.OVIYA IOCTL G FMT IN OV5640--------------------
+3 build on Sep 29 2011 15:40:26.OVIYA IOCTL G FMT CPM=0
+
+CSI_SENS_CONF = 0x00008900
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+Returned, stopping playback
+mxc_v4l_close: release resource
+Deleting pipeline
+root@freescale /$ 
+
+U-Boot 2009.08 (Apr 02 2012 - 22:03:12)
+
+CPU:   Freescale i.MX53 family 2.1V at 800 MHz
+mx53 pll1: 800MHz
+mx53 pll2: 400MHz
+mx53 pll3: 432MHz
+mx53 pll4: 455MHz
+ipg clock     : 66666666Hz
+ipg per clock : 33333333Hz
+uart clock    : 66666666Hz
+cspi clock    : 108000000Hz
+ahb clock     : 133333333Hz
+axi_a clock   : 400000000Hz
+axi_b clock   : 200000000Hz
+emi_slow clock: 133333333Hz
+ddr clock     : 400000000Hz
+esdhc1 clock  : 80000000Hz
+esdhc2 clock  : 80000000Hz
+esdhc3 clock  : 80000000Hz
+esdhc4 clock  : 80000000Hz
+nfc clock     : 26666666Hz
+OVIYA Board: MX53-APOLO 1.0 Rev. A
+Boot Reason: [POR]
+Boot Device: SD
+I2C:   ready
+DRAM:   1 GB
+MMC:   FSL_ESDHC: 0,FSL_ESDHC: 1
+In:    serial
+Out:   serial
+Err:   serial
+da9052_i2c_is_connected - i2c write success....
+Serial reinitilized!
+Net:   got MAC address from IIM: 00:04:9f:01:dc:48
+FEC0 [PRIME]
+Hit any key to stop autoboot:  3  2  1  0 
+mmc0 is current device
+
+MMC read: dev # 0, block # 2048, count 6144 ... 6144 blocks read: OK
+## Booting kernel from Legacy Image at 70800000 ...
+   Image Name:   Linux-2.6.35.3
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    3117928 Bytes =  3 MB
+   Load Address: 70008000
+   Entry Point:  70008000
+   Verifying Checksum ... OK
+   Loading Kernel Image ... OK
+OK
+
+Starting kernel ...
+
+Éñ)Áæ)‹ùñ$æ'ÑŒÞçÀß1É)1)ù1É)1)é6)c)ééÉù!)!éæÖë)ÉÑ.ØØä)‰ùñÆäÎdöÆ6)ká)	)É‘Ð.1'ù))É6é×/ÞØqæÉö™6ÆÖ/1Àæààïá	”ÑÑ6ö$É)(!	)t)!ä)&&†æ&6ÖÖ)dÆ”Ái)Ïk/'Éù)ù6	'æŒ–”	&)qÉÉùñÖ“)/'ØÀ‡é4)669äé))Ïä)	)æ××áÉ	‰ñ9Æ	!	6	Á)áæ)	)æ×—áÉ	Éñ9×Þ/œ9Ç!Éùñ6	Á)é	ƒÉñ)‘æ)i	á)Ö)'ÎÆÖ”Ð&ù	!ékéù‰ùá‰ÉÑ”„É	á)!á„	!	6	kö‰!)	Ùé)Éá!&ùñ)á‰!&é×.öœ.1æáÖ×Ø4ØÉ!Éöù)Éñ9ôÆé/0˜	9)Ñ$dÖÁ)ñ)á6ûéé	ñ!Æ××.Ï6ùñùá)éÆ!‰éÁ„ÑÖ$&ûù!éö.1îù”××ØØ—Ù	&ùù!y	É!d9é É!×ÁÆ	á)Öñ!É)‘ÆæÑœ.1æ‘&Ææ6Æ&É!)Ö)ñ!Ét	Ái×ƒÆ	á)Öñ!É)4ö&ÑÞl1æÑôÆÖ&„&dÉ!)ÉÖÁñù!ié6	Á)—Á†á)Öñ!‰)ÑäÖÖ6äÑœ.1æÑæÆ&ä&Æ†&É!)ÉÖ)éùÉÑtÖ&ÖÖ&”ÐÖæÆÖÆù!	áé)éùÉÑæöæ6×æôæ41	‰á	á)áäöæ6&))1)!á6××.—×.7.Éa)	át×.Þ—lÖ×,7ßÉ„×Éùi!ÑÖÀÀ€€î)!ù$1q11Ö11s1	†6ÐÀ€ÀÀÎÉé	&111”q11)æ6ÀÀÀÀé	&1É”Ö11)æ”ÐÀÀ€€îé	ááù$)Ö1!6&ÖÐÀ€ÀÀØùyé)é&ÁÖiÑÖtæÖÀÀÀÀàÙé	&9æ)ÖÁ&”ÐÀÀ€ÀÙù!)á)d9äÖ9æ)„ÖÐ€€ÀÀÀ€œÑñÉ!&ÁÖ66ô&6ÀÀÀÀ€ÀÞè)!&Á66ÖÁt&&tÐÀÀ€ÀÀÀÞˆ	!	dæÖÁ&6æ6Ð'á)É‘ö)ñá	éÆÖ)0˜‰9ñé6&ÆöÞ.1æéÖÑÎÖÖ×ØÙ1Ç!éÆ6))œáØÀù!)éÖÁÉ)Á‰	ádé)	—á)é)ñ!	aÉùññ”Á&))˜0ç)!Æ)!)!Éùñö.t!	áá)!6))Þ—ÞÆÉ	á)añÖÁ.)ù)6!	áá)!é6))Þ„)!)aÉùñ×ÞÆ‰	ák!ñÖékÖ('‘6æÖÁÁéö)”×!9	iééÖ(ÀÑñÉ!É	ãÉÑ)!éÁéù)(pæáÉt)É	á6ùñùá)!”ÖÖÖ)6æÑaÉùñö”&öÑÁÆùù!ñùá)6	//>ÙÖ	”ñ	ái!éùñùá)ÑtùáùiÆ)ëéÉ†)1ÉiÖ	áÉ	!Éñ{Æ)á	ÉÆ—×ñæþñññÞèæ€ù9ùé‹é	Ñé„ö&ÑƒàÉ!ù)×Á‘Æ)1)á!‘6&öäÖ—×××/wöÀçàãù)ñaé6	ƒ)—ÁÆ	á)”ñ!‰)Ñ”&Ö))Æ).žo6Þ9ôÉ!)&)11)6ûÁ))ñÉÑþŸ™éæ)9iá	!ùÑ6ù)ækÉùñæ‘')!É&),.6ç!))!ù!ùáä	éÉá‰æ–ÁÑñÖ	Ö`ùùáÑd6)ÆÖ)é&)( É)ùùÑ$ÉÉÉ‰ÉÉÉ‰‰ÉÉÏ”ù‰û	!ù)×/)k×ÞÑ)gÎ&).o6çÉùñ&æ‘ÖÁùùÑ&ÉÉÉÉ‰ÉÉÉ‰ÉÉÏ–)6ö	—×Ø×i××)—/)Éñ96	('ÑkÖÁÁé„é	)×/6áÉÑ)!ééÁ	Öö	™))ù)ééÁ	”ö	Ù))ù)éÆÉùÑ6k	!)6á	Æ&Éùéæ!–Á')6)É!)é×/6Áá‰Ñ)!é))	á)Öé‰ö)hÆ‰q)†—×!)aáÆ&i./6ç‰ùñÑæÑ'€ÈÖÖÖÖ”ÖÖÖ–”ÖÖÖ”ÖÖÖÖ”ÖÖÖ–ÖÖÖÖ”ÖÖÀù!)ÖÐ!ÀÖÖÖ”ÖÖÖ–”ÖÖÖ”ÖÖÖÖ”ÖÖÖ–”ÖÖÖ”ÖÖ1ùi×1)6)iñÆ‹æ—/6Ç)û)—1)Öñ	á)!ö)(Æ‰s)æùÖ)6†”ÖÐ$ù	!éù”)6„××Ødù	aáÆiö)hæ)ñ!Éùñ×Þ”ñ	1	‰á	ákÆ))Æù×!9	)„×××o0èÉùñé'ùáô×ö×.”æ)ñ!‰ùñ.1îÉ)öž××ÞoÀÇ	ñ&)1	Éáá)æùt)!	Éñ—×9)é á)	i6ùñsÉ9ù)t×.Þ×lÆùÆÉ	á)ö)(ñ!ÆiÖæ)ñ!Éùñù)Æùñ9„ö	ñcÆùÖ)éñ!&ié	ÉñÆÁ)ö/×,œÖæ)ñ!Éùñù)ôù)á!Æ××™1Àèù”)é)áù9ö)(6ùñ1É96Áù)á!&)&)éù1)!‘”Áùñ1É9ù)éùé)(6ùñ1É9ù))ÖÐéi(Áùù)ö—.ö.&)áùy6ùñ1É9æù××Þ/öÞÆi1É)æ)ñ!Éùñéi!ÆùæÖ)6Áùù)Æ)éÆù9)!ié!é(—×Þ/4ùñ1‰yéùñ1‰{ù))–)(Ö&?	éûé)(!éhÆ)1‰)6ûñ1Éyéùñ1Éyù))Öé( y)!)éùkÑ&)9É!i)!ä×.//1æq	)„É1iÖ1ééùiÑ&)9É!))!ä×.//1æq	)„É1)×/Øéù)Ñ&i9É!))!æ×./„)1É)Æ‰1)”éÈ	É”&ö)ŒØ)×žéùññi!)!ÖŒØ&)!6))ñæ‘Áæ)9)á	aùÑÆ	É”&ö	hÖ&äÆ”Ñ”)!6Ö)ä×Þ7áÖÁä)9)á!ù‘Æ	‰Ö&ö	(Îæ„ÖÑÖ)c6Ö)æ×ÞwÁáÖƒæ){)á	!ùÑ„	É–dö	(”ÎÏô&Ö†”Ñ46”)!66Ö)ä×Þ7áÖæ)9)á	aùÑÆ	É”&ö	h'Ïö&Ö„ÖÑt6Ö)a&öö”Ö)æ×Þ7ÁáÖæi9)á	cùÑÆ	É”&ö	hÖ'Ï&„ÖÑ6æÖ)c6Ö)æ×ÞwÁáÖƒä)9)á	!ù‘Æ	ÉÖ&ö	('Ï&ÆÖÑ6æÖ)!6Öiæ×žwÁáÖÁæ)9)á	!ù“Æ	‰Ö&ö	(Ö'&ÆÖÑ6æÖ)!&ôÖ–)æ×Þ7Áá”Áæ)9)á	!ùÑ†ÉÖ$ö	(&&Æ”Ñ6ä–)!Ö)ä—Þ7áÖÁæ)9)á	!ùÑ†ÉÖ$ö	(”&&”Æ”Ñ6äÖ–)!ÖÖ)ä—Þ7áÖÁæ)9)á	!ù‘Æ	‰Ö&ö	(Öd&ÆÖ‘6æÖk!6”)æ—Þ7ÁáÖÁæ)9)á	!ù‘Æ	‰Ö&ö‰)éÙùéù)(ÖÆÖÑ&ö–Ö)!&”Ökæ×œwÁá–Áæ)y)á	!ùÑ†	ÉÖdöÉ)é	ÉéÏÖÆÖ‘&ôÖÖ)!6”)æ×Þ7ÁáÖÁæ)9ká	!ùÑÆ	ÉÖ&ôÉ)é™ù)Ö('öÀñæéÀøÙ™üÀæéààÀÙ1	!”–)æ×œ7Áá”Áä)9)á	!ù‘Æ	ÉÖ&ö‰kéÙù	)(Ö&ö€áðààÀøÙÙüÀçîààÀÙ1	!äöÖÖ)æ×œ7Áá”Á	ÉÖ66É(&)9&)	aé	nÁæ)‹ùñù)aé))æ	(&€&)9ÖÖ&1ÖÁ))6é&i..Þ”Öæ”Á))ÖÐ&)l.ÞÖÖ–Á))('d)..žÖÖÖÖÁ)iÆ	d)..Þ”Ö&ÖÁ))Æd)..žÖÖæÖÁ))Æé1&)..œÖÖÖ))Æ‰&),.ÞÖ””ÖÁ))Æ‰	&),.ÞÖ”ÖÁ€))6k(Ðd)..Þ”Ö1ÖÁ))6)&)..œÖÖ	ÖÁ)i6)”&).,ÞÖ–)Ö)i6)–l7Àù€‰6Öƒ))Æ	iÖ.7ÀùÀÉ”Á)iÆ†).7àá	!)–”.7Àù€ÉÆ–Á))„Éá	É&i..6ßñÖ”.7Àù€É&ÖÁÑ)ûéáÙÖ&Ö))„é1æÖÖ'áÖ—.1öÀáÐàþ	Ö$ÁÆÆÑ'ØÀéƒæÆÑ'!1	ñ)!†”×/6é×/.ÁÉ!)!))ÆÉ1)æi.ÞÞ6ŸñææÎÎ‘Áá))!ùù!ÁÑ6ù)æ)&æÑÖ”Ái!É&i..6ç!))!ù!ûùáæ	éÉáÉ6”Áá)i!ùù!ÁÑ”&ÀÈ)qÉ)ñ!4ùññ)ÉùñÖ×ñ	9)×/tÁáÉÑi!éá))!ùù!‘ÖÐdÀçù™)!Æ—É)×/tÁáÉ‘k!é'9‰!ÁÉñ9Æù6áùÙù))–ù	/tÙ)	”Á)!‰&).l6ç!))!ù!ùùáæéÉá‰&Ö	dù)!)6	)—ÁÆ	á)”ñ!‰)Ñt&öæÑžl1æÑ”Æ6ö&&É!)ÉÖÁ(	Ö!	áÉ)!—Á„	á)Öñ!É)Ñ6ô&‘Þ.1æ‘ÆÆ”öæ&‰!)‰”Á(	$Éñ!×Á„	á)Öñ!É)‘æÖÖ4æÑÞ.1æ‘æÆ$æ&†„&É!)ÉÖÁ(‰ÖÆ	á)6ùñ1Éy))!Ñ.Þo0ÆáÉÁ)!6ô&&Éñ!æ–”6æ‘Á(	&)ñù&i9É!k)!é)!	×Á„	á)Öñ!É)‘Ö&ÑÞ,sæÑ„&&Éa)É–Á)!)Ö/1ÀÐ	Æ	á)ÖñcÉ)ÑÖdÑœ.1æÑÆ&&É!)‰ÖÁ)!É&)..6ç!))!ù!ùùáæ	éÉáÉÖÁ&éÑ&)l.6ç!))!”!†	ñù!”×.9˜)ñÖ&é‘&)..tç!)i!ÆÆ	ñù!Ö—.9Ø)ñÖÁ&é“&).l6ç!))!†æhÖ/'‘&	Á	ññ)á„	ñù!Ö×.9Ø)ñÖiÖ.1€ÈÉ1iÖ×.9Ø)Æ××!i!é'!	!Éé×/qæÖÖñ	9)éiñ!æùæ))á)Ñ)' é„É1)Ö×l9Ø)„××!)!éç!	é)!ù9	!Éñ9ÆÉq)–—.9Ø)Æ××a)!é)æ)	Æ‰s)”—.9˜iÆ××c)!é‰×žÉé	Éé™Áù	.o.Þéù)ù	ù)é1É(”ÆÉq)–—.9Ø)Æ××a)!é“ñÖé6))æ)	k)ñ‰ÆÉq)é1‰hÖ)(”Æ‰q)–—.9ØiÆ××c)!é11‰æ)ÉùñdæÎÖñaÉ&‘ÀæààáÙæààìÀ&)!Ö!á×˜ÑÁ™9éñ‹×&))ñ6)!ÆùæÖÖÁÁá9ÑæÖ†)!äù6a!ñ9ÑÙž×.ÇÉ!ù!)qÑÆ‹1)Æ××!i!ñÖ‘ù6ƒ)!)á)æ—×&k9É!))!éÑù6Á)!)á)Æ)	!áÉñ)&)9‰!))!é“ù6Á)!)á)6q	&)9É!i)!.1Î	)á!É”Áæ)9)á	!ùÑök!ÁöÉ!æ×.1Þ!‰1É)ëÉ6)!!Éñyá6)”Æ‰1)ôÉááä×/$)Öñá)!éÉ6)!!‰ñ9á„(Ð„É1)öÉááæ×/&)”ñ	á)!é™Á1ûé)!)ÑÖ—.1ÀçcÖ”6á		éöÉ)h ™ù))Öù))“6Á	ññ)áá)!É„É	á)!”ÁÙÁùi)”ù))Ñ6ƒ	ññ)áá)	!‰ÖñÉñÉ!É	áÉÑ)!Öùñùá)Ñt9É!ƒÉñ9Æù6ùáù)æ	é)&)q1)„)1É)”ÁÙÁqùé)c)ÑÖ×.1€ç!”Öæéh Ù09	éÙÁù))–ù))Ñ6	ññ)áá)	!‰ÆÉ	á)!öÖÁÙÁùi)”ù))Ñ6ƒ	ññ)áá)	!‰ÖñÉñÉ!É	áÉÑ)!öÖÙ1ùé)!)Ñæ×Ö×.1Àç!é™ƒù))Öù))“6Á	ññ)áá)	!É„É	á)!ÖÁÙÁù))Öù))Ñ6	ññ)ãá)	!ÉÖñÉñÉ!É	áÉÑ)!Ö')É	á‘Öé/1äñ	á”)	)ÆÉ1iéÙÁÉñ!)	!ñdÆ!‰éÁ!–”ÖÖ)6æÑžxÀùÀçãÑÀÑæ))á)Ñ)Áconsole [ttymxc0] enabled, bootconsole disabled
+console [ttymxc0] enabled, bootconsole disabled
+mxcintuart.1: ttymxc1 at MMIO 0x53fc0000 (irq = 32) is a Freescale i.MX
+mxcintuart.2: ttymxc2 at MMIO 0x5000c000 (irq = 33) is a Freescale i.MX
+mxcintuart.3: ttymxc3 at MMIO 0x53ff0000 (irq = 13) is a Freescale i.MX
+mxcintuart.4: ttymxc4 at MMIO 0x63f90000 (irq = 86) is a Freescale i.MX
+loop: module loaded
+MXC MTD nand Driver 3.0
+i.MX GPMI NFC
+vcan: Virtual CAN interface driver
+Freescale FlexCAN Driver 
+FEC Ethernet Driver
+fec_enet_mii_bus: probed
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+fsl-ehci fsl-ehci.0: Freescale On-Chip EHCI Host Controller
+fsl-ehci fsl-ehci.0: new USB bus registered, assigned bus number 1
+fsl-ehci fsl-ehci.0: irq 18, io base 0x53f80000
+fsl-ehci fsl-ehci.0: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 1 port detected
+fsl-ehci fsl-ehci.1: Freescale On-Chip EHCI Host Controller
+fsl-ehci fsl-ehci.1: new USB bus registered, assigned bus number 2
+fsl-ehci fsl-ehci.1: irq 14, io base 0x53f80200
+fsl-ehci fsl-ehci.1: USB 2.0 started, EHCI 1.00
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 1 port detected
+usbcore: registered new interface driver cdc_acm
+cdc_acm: v0.26:USB Abstract Control Model driver for USB modems and ISDN adapters
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+ARC USBOTG Device Controller driver (1 August 2005)
+mice: PS/2 mouse device common for all mice
+input: gpio-keys as /devices/platform/gpio-keys/input/input0
+MXC keypad loaded
+egalax_ts 2-0004: request gpio failed:-16
+egalax_ts 2-0004: egalax_ts: failed to read firmware version
+egalax_ts: probe of 2-0004 failed with error -5
+p1003_fwv33 2-0041: couldn't read panel infomation.
+p1003_fwv33: probe of 2-0041 failed with error -5
+input: da9052-onkey as /devices/platform/imx-i2c.0/i2c-0/0-0048/da9052-onkey/input/input1
+mxc_rtc mxc_rtc.0: rtc core: registered mxc_rtc as rtc0
+i2c /dev entries driver
+IR NEC protocol handler initialized
+IR RC5(x) protocol handler initialized
+IR RC6 protocol handler initialized
+IR JVC protocol handler initialized
+IR Sony protocol handler initialized
+Linux video capture interface: v2.00
+OVIYA MXC INIT FN CPM=0
+OVIYA  init_camera_struct   2611 
+ ov5640 PROBE CPM=0
+OV5640***: ioctl_s_power on=1
+   Setting mclk to 24 MHz
+ov5640_init_mode:write frame_rate=1, frame_rate=0
+ov5640_init_mode:write frame rate=1, modee=0
+OV5640***: ov5640_init_mode
+OVIYA W=640 H=480 ARYSIZE=259 PMODE=1
+OVIYA IOCTL G FMT IN OV5640--------------------
+OVIYA IOCTL G FMT CPM=0
+mxc_v4l2_output mxc_v4l2_output.0: Registered device video1
+usbcore: registered new interface driver uvcvideo
+USB Video Class driver (v0.1.0)
+APM Battery Driver
+  oviya check mma8450 chip ID
+
+ ovi MMA8450 ACCELEROMETER and RESUL:0xf 0xc6 
+mma8450 0-001c: build time Feb  8 2014 16:26:53
+input: mma8450 as /devices/virtual/input/input2
+add mma8450 i2c driver
+ OVIYA MMA8452 INIT OK 0x0
+MXC WatchDog Driver 2.0
+MXC Watchdog # 0 Timer: initial timeout 60 sec
+Bluetooth: Virtual HCI driver ver 1.3
+Bluetooth: HCI UART driver ver 2.2
+Bluetooth: HCIATH3K protocol initialized
+Bluetooth: Generic Bluetooth USB driver ver 0.6
+usbcore: registered new interface driver btusb
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+VPU initialized
+mxc_asrc registered
+gpu mmu disabled
+mxsdhci: MXC Secure Digital Host Controller Interface driver
+mxsdhci: MXC SDHCI Controller Driver. 
+mmc0: SDHCI detect irq 0 irq 1 INTERNAL DMA
+mxsdhci: MXC SDHCI Controller Driver. 
+mmc1: SDHCI detect irq 203 irq 3 INTERNAL DMA
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+Cirrus Logic CS42888 ALSA SoC Codec Driver
+sgtl5000-i2c 1-000a: SGTL5000 revision 17
+mxc_spdif mxc_spdif.0: MXC SPDIF Audio Transmitter
+No device for codec mxc spdif
+No device for DAI mxc spdif
+No device for DAI imx-ssi-1-0
+No device for DAI imx-ssi-1-1
+No device for DAI imx-ssi-2-0
+No device for DAI imx-ssi-2-1
+No device for DAI imx-spdif-dai
+DMA Sound Buffer Allocated: Playback UseIram=1 ext_ram=0 buf->addr=f8016000 buf->area=e0856000 size=24576
+DMA Sound Buffer Allocated: Capture  UseIram=1 ext_ram=1 buf->addr=cf0c8000 buf->area=fabfa000 size=24576
+asoc: SGTL5000 <-> imx-ssi-2-0 mapping ok
+DMA Sound Buffer Allocated: Playback UseIram=1 ext_ram=1 buf->addr=cf358000 buf->area=fac00000 size=24576
+asoc: mxc spdif <-> imx-spdif-dai mapping ok
+ALSA device list:
+  #0: imx-3stack (SGTL5000)
+  #1: imx-3stack-spdif (mxc spdif)
+TCP cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20090105 abi 8)
+NET: Registered protocol family 29
+can: raw protocol (rev 20090105)
+can: broadcast manager protocol (rev 20090105 t)
+Bluetooth: L2CAP ver 2.14
+Bluetooth: L2CAP socket layer initialized
+Bluetooth: SCO (Voice Link) ver 0.6
+Bluetooth: SCO socket layer initialized
+Bluetooth: RFCOMM TTY layer initialized
+Bluetooth: RFCOMM socket layer initialized
+Bluetooth: RFCOMM ver 1.11
+Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+Bluetooth: BNEP filters: protocol multicast
+Bluetooth: HIDP (Human Interface Emulation) ver 1.2
+VFP support v0.3: implementor 41 architecture 3 part 30 variant c rev 2
+regulator_init_complete: incomplete constraints, leaving DA9052_BUCK_PERI on
+regulator_init_complete: incomplete constraints, leaving DA9052_BUCK_MEM on
+regulator_init_complete: incomplete constraints, leaving DA9052_BUCK_PRO on
+regulator_init_complete: incomplete constraints, leaving DA9052_BUCK_CORE on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO10 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO9 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO8 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO6 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO5 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO3 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO2 on
+regulator_init_complete: incomplete constraints, leaving DA9052_LDO1 on
+mxc_rtc mxc_rtc.0: setting system clock to 1970-01-01 00:00:01 UTC (1)
+Waiting for root device /dev/mmcblk0p1...
+mmc0: new high speed SDHC card at address aaaa
+mmcblk0: mmc0:aaaa SU04G 3.69 GiB 
+ mmcblk0: p1
+EXT3-fs: barriers not enabled
+EXT3-fs (mmcblk0p1): warning: mounting fs with errors, running e2fsck is recommended
+kjournald starting.  Commit interval 5 seconds
+EXT3-fs (mmcblk0p1): using internal journal
+EXT3-fs (mmcblk0p1): mounted filesystem with writeback data mode
+VFS: Mounted root (ext3 filesystem) on device 179:1.
+Freeing init memory: 172K
+starting pid 1191, tty '': '/etc/rc.d/rcS'
+Mounting /proc and /sys 
+Starting the hotplug events dispatcher udevd
+Synthesizing initial hotplug events
+Setting the hostname to freescale
+Mounting filesystems
+mount: mounting usbfs on /proc/bus/usb failed: No such file or directory
+Starting the dropbear ssh server: 
+D-Bus per-session daemon address is: unix:abstract=/tmp/dbus-WTnliG5jjG,guid=18c64bc51282d8db79abaebb00000008
+gtk: creating gdk-pixbuf.loaders
+pango: creating module list
+starting pid 2228, tty '': '/sbin/getty -L ttymxc0 115200 vt100'
+_XSERVTransSocketOpenCOTSServer: Unable to open socket for inet6
+_XSERVTransOpen: transport open failed for inet6/freescale:0
+_XSERVTransMakeAllCOTSServerListeners: failed to open listener for inet6
+(EE) XKB: Couldn't open rules file /usr/share/X11/xkb/rules/base
+(EE) XKB: No components provided for device Virtual core keyboard
+unrecognised device identifier!
+(EE) config/hal: NewInputDeviceRequest failed (2)
+
+arm-none-linux-gnueabi-gcc (4.4.4_09.06.2010) 4.4.4
+root filesystem built on Thu, 29 Sep 2011 15:54:39 +0800
+Freescale Semiconductor, Inc.
+
+freescale login: matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <Alt>n=next
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <Alt>p=prev
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <Alt>c=close
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <Alt>d=desktop
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <Alt>m=!matchbox-remote -mbmenu
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <ctrl><alt>x=!xterm
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <ctrl><alt>r=!rxvt
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <ctrl><alt>e=!!gpe-calender
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <alt>Tab=next
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <alt><shift>Tab=prev
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <alt>space=taskmenu
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <alt>escape=!matchbox-remote -mbmenu
+
+matchbox: keyboard does not appear to have a <alt> key.
+matchbox: ignoring key shortcut <alt>f4=close
+
+matchbox: Cant find a keycode for keysym 65480
+matchbox: ignoring key shortcut f11=fullscreen
+
+Failed to get root pixmap id
+matchbox-desktop: loading /usr/lib/matchbox/desktop/tasks.so with args ( None )
+matchbox-desktop: loading /usr/lib/matchbox/desktop/dotdesktop.so with args ( None )
+user_overides is (nil)
+mb-desktop-dotdesktop: failed to open /usr/local/share/applications
+mb-desktop-dotdesktop: failed to open //.applications
+mb-applet-menu-launcher: bonobo-browser.desktop has no icon, png or name
+mb-applet-menu-launcher: failed to open /usr/local/share/applications
+mb-applet-menu-launcher: failed to open //.applications
+mb-applet-menu-launcher: bonobo-browser.desktop has no icon, png or name
+mb-applet-menu-launcher: failed to open /usr/local/share/applications
+mb-applet-menu-launcher: failed to open //.applications
+root
+login[2228]: root login on 'ttymxc0'
+
+
+BusyBox v1.18.5 () built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+
+root@freescale ~$ cd /
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ ./arroot@freescale /$ ./arm_testing /deroot@freescale /$ ./arm_testing /dev/

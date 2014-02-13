@@ -140,6 +140,8 @@ ftp_open(char *server, char *login, char *passwd)
 	/*
 	 * Set up defaults for FTP.
 	 */
+//	(void) strcpy(typename, "ascii"), type = TYPE_A;
+//	curtype = TYPE_A;
 	(void) strcpy(typename, "binary"), type = TYPE_I;
 	curtype = TYPE_I;
 	if (dologin(reallogin, passwd)) { ftp_close(); return -1; }
@@ -366,7 +368,7 @@ ftp_getfile(char *remote_file, char *local_file, off_t rst)
 	char mode[3] = "r+";
 	struct stat st;
 
-	if (!rst) strcpy(mode,"w");
+	if (!rst) strcpy(mode,"wb");
 
 	if ((fout=fopen(local_file, mode)) == NULL) {
 		fprintf(stderr, "Cannot open local %s\n", local_file);
@@ -400,7 +402,7 @@ ftp_putfile(char *local_file, char *remote_file, off_t rst, int append)
 	int r;
 	unsigned bufsize;
 	struct stat st;
-	printf(" FTP PUTFILE BUFSIZE= %d\n", BUFSIZ);
+
 	if ((fin=fopen(local_file, "rb")) == NULL) {
 		fprintf(stderr, "Cannot open local file %s\n", local_file);
 		return 2;

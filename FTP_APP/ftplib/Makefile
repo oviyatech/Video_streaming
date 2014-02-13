@@ -48,20 +48,11 @@ ocamlftp: libftp.a ftp.cma
 
 # example C application
 
-example: libftp.a button_press.c 
-	arm-poky-linux-gnueabi-gcc  button_press.c logger.c libftp.a -lpthread `pkg-config --cflags --libs glib-2.0 gstreamer-0.10` -L/home/shanmugam/YOCTO/rootfs_builder/build/tmp/sysroots/imx6qsabrelite/usr/lib/ -o example
+example.o: example.c
+	arm-poky-linux-gnueabi-gcc -c example.c
 
-#example: libftp.a example.o
-#	arm-poky-linux-gnueabi-gcc  example.o libftp.a -o example
-
-# example in Caml ?
-
-
-#button_press: button_press.c
-#	arm-poky-linux-gnueabi-gcc   button_press.c libftp.a -lpthread `pkg-config --cflags --libs glib-2.0 gstreamer-0.10` -L/home/shanmugam/YOCTO/rootfs_builder/build/tmp/sysroots/imx6qsabrelite/usr/lib/ -o  button_press
-
-#button_press: button_press.o
-#	arm-poky-linux-gnueabi-gcc  button_press.o ftplib.o ftp.o caml.o  -o button_press
+example: libftp.a example.o
+	arm-poky-linux-gnueabi-gcc  example.o libftp.a -o example
 
 # example in Caml ?
 

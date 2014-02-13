@@ -1,0 +1,205 @@
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 0_shanmugam.avi-----------------------
+Loaction ****************  /home/0_shanmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 build on Sep 29 2011 15:40:54.
+[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+[INFO]	Product Info: i.MX53
+VPU Versi[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+on: firmware 13.4.41; libvpu: 5.3.2 
+MFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA IOCTL G FMT IN OV5640--------------------
+OVIYA IOCTL G FMT CPM=0
+CSI_SENS_CONF = 0x00008900
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+mxc_v4l_close: release resource
+STOP CAPTURE
+Current file name 1_shanmugam.avi-----------------------
+Loaction ****************  /home/1_shanmugam.avi
+MFW_GST_V4LSRC_PLUGIN 2.0.3 build on Sep 29 2011 15:40:54.
+[ALLOC] mem alloc cpu_addr = 0xfac06000  Size 0x150b8 
+[INFO]	Product Info: i.MX53
+VPU Versi[ALLOC] mem alloc cpu_addr = 0x0  Size 0x100000 
+on: firmware 13.4.41; libvpu: 5.3.2 
+MFW_GST_VPU_ENCODER_PLUGIN 2.0.3 build on Sep 29 2011 15:40:26.
+OVIYA IOCTL G FMT IN OV5640--------------------
+OVIYA IOCTL G FMT CPM=0
+CSI_SENS_CONF = 0x00008900
+OVIYA ioctl_g_parm CPM=0
+   Current capabilities are 1001
+   Current capturemode is 0  change to 0
+   Current framerate is 30  change to 30
+OVIYA-1  W= 640  H= 480   
+ OVIYA FMT.PIX.WIDTH= 640 FMT.PIX.HEIGHT= 240
+OVIYA-11  W= 640  H= 240   
+ OVIYA-12  W= 640  H= 240   
+ OVIYA-13  W= 640  H= 240   
+ OVIYA-14  W= 640  H= 240   
+ OVIYA-17  W= 640  H= 240   
+ OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 0
+OVIYA-2  W= 640  H= 240  
+  OVIYA mxc_v4l2_s_fmt fmt.pix.sizeimage 230400
+ OVIYA S_FMT RETVAL= 0
+OVIYA IOCTLNR=-1060350459
+OVIYA  3 req->count
+OVIYA  10 FRAME_NUM
+OVIYA mxc_allocate_frame_buf   In MVC:mxc_allocate_frame_buf - size=230400
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x20000 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+[ALLOC] mem alloc cpu_addr = 0x0  Size 0x70800 
+Returned, stopping playback
+mxc_v4l_close: release resource
+Deleting pipeline
+root@freescale /$ ps -a
+ps: invalid option -- 'a'
+BusyBox v1.18.5 () multi-call binary.
+
+Usage: ps 
+
+Show list of processes
+
+This version of ps accepts no options
+
+root@freescale /$ ps
+  PID USER       VSZ STAT COMMAND
+    1 root      2212 S    init
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [events/0]
+    5 root         0 SW   [khelper]
+    8 root         0 SW   [async/mgr]
+    9 root         0 SW   [pm]
+   74 root         0 SW   [usb_wakeup thre]
+   75 root         0 SW   [usb_wakeup thre]
+  211 root         0 SW   [sync_supers]
+  213 root         0 SW   [bdi-default]
+  215 root         0 SW   [kblockd/0]
+  229 root         0 SW   [ata_aux]
+  230 root         0 SW   [ata_sff/0]
+  235 root         0 SW   [otg_switch/0]
+  241 root         0 SW   [khubd]
+  290 root         0 SW   [kmmcd]
+  317 root         0 SW   [rpciod/0]
+  337 root         0 SW   [kswapd0]
+  385 root         0 SW   [aio/0]
+  397 root         0 SW   [nfsiod]
+  403 root         0 SW   [crypto/0]
+ 1017 root         0 SW   [kapmd]
+ 1126 root         0 SW   [kconservative/0]
+ 1131 root         0 SW   [vpu_wq/0]
+ 1140 root         0 SW   [esdhc_wq/0]
+ 1142 root         0 SW   [esdhc_wq/0]
+ 1148 root         0 SW   [usbhid_resumer]
+ 1181 root         0 SW   [l2cap]
+ 1182 root         0 SW<  [krfcommd]
+ 1192 root         0 SW   [mmcqd]
+ 1196 root         0 SW   [kjournald]
+ 1206 root      1768 S <  udevd --daemon
+ 1744 root         0 SW   [flush-179:0]
+ 2200 root      2220 S    /usr/sbin/dropbear
+ 2205 messageb  2424 S    dbus-daemon --system
+ 2211 root      2424 S    /usr/bin/dbus-daemon --fork --print-pid 5 --print-ad
+ 2215 haldaemo  6340 S    hald --daemon=yes
+ 2216 root      3296 S    hald-runner
+ 2220 root      3456 S    hald-addon-input: Listening on /dev/input/event2 /de
+ 2227 root     41788 S    Xfbdev -mouse mouse,2,device=/dev/input/mice
+ 2238 root      2216 S    -sh
+ 2243 root      5088 S    matchbox-window-manager -d :0 -use_lowlight no -use_
+ 2244 root      6480 S    matchbox-desktop
+ 2245 root      5088 S    matchbox-panel --bgtrans yes
+ 2247 root      5076 S    mb-applet-menu-launcher
+ 2248 root      4968 S    mb-applet-clock
+ 2253 root      2160 D    ./example
+ 2255 root      2160 R    ./example
+ 2263 root      2216 R    ps
+root@freescale /$ kill -9 2253
+root@freescale /$ root@freescale /$ kill -9 22535
+[1]-  Killed                     ./example
+root@freescale /$ 
+[2]+  Killed                     ./example
+root@freescale /$ 
+root@freescale /$ root@freescale /$ kill -9 2255root@freescale /$ kill -9 2253root@freescale /$ ps
+  PID USER       VSZ STAT COMMAND
+    1 root      2212 S    init
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [events/0]
+    5 root         0 SW   [khelper]
+    8 root         0 SW   [async/mgr]
+    9 root         0 SW   [pm]
+   74 root         0 SW   [usb_wakeup thre]
+   75 root         0 SW   [usb_wakeup thre]
+  211 root         0 SW   [sync_supers]
+  213 root         0 SW   [bdi-default]
+  215 root         0 SW   [kblockd/0]
+  229 root         0 SW   [ata_aux]
+  230 root         0 SW   [ata_sff/0]
+  235 root         0 SW   [otg_switch/0]
+  241 root         0 SW   [khubd]
+  290 root         0 SW   [kmmcd]
+  317 root         0 SW   [rpciod/0]
+  337 root         0 SW   [kswapd0]
+  385 root         0 SW   [aio/0]
+  397 root         0 SW   [nfsiod]
+  403 root         0 SW   [crypto/0]
+ 1017 root         0 SW   [kapmd]
+ 1126 root         0 SW   [kconservative/0]
+ 1131 root         0 SW   [vpu_wq/0]
+ 1140 root         0 SW   [esdhc_wq/0]
+ 1142 root         0 SW   [esdhc_wq/0]
+ 1148 root         0 SW   [usbhid_resumer]
+ 1181 root         0 SW   [l2cap]
+ 1182 root         0 SW<  [krfcommd]
+ 1192 root         0 SW   [mmcqd]
+ 1196 root         0 SW   [kjournald]
+ 1206 root      1768 S <  udevd --daemon
+ 1744 root         0 SW   [flush-179:0]
+ 2200 root      2220 S    /usr/sbin/dropbear
+ 2205 messageb  2424 S    dbus-daemon --system
+ 2211 root      2424 S    /usr/bin/dbus-daemon --fork --print-pid 5 --print-ad
+ 2215 haldaemo  6340 S    hald --daemon=yes
+ 2216 root      3296 S    hald-runner
+ 2220 root      3456 S    hald-addon-input: Listening on /dev/input/event2 /de
+ 2227 root     41788 S    Xfbdev -mouse mouse,2,device=/dev/input/mice
+ 2238 root      2216 S    -sh
+ 2243 root      5088 S    matchbox-window-manager -d :0 -use_lowlight no -use_
+ 2244 root      6480 S    matchbox-desktop
+ 2245 root      5088 S    matchbox-panel --bgtrans yes
+ 2247 root      5076 S    mb-applet-menu-launcher
+ 2248 root      4968 S    mb-applet-clock
+ 2264 root      2216 R    ps
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ 
+root@freescale /$ root@freescale /$ psroot@freescale /$ kill -9 2255root@freescale /$ kill -9 2253root@freescale /$ psroot@freescale /$ ps -aroot@freescale /$ ./arm_testing /dev/input/event0 root@freescale /$ ./example & root@freescale /$ ./arm_testing /dev/input/event0 root@freescale /$ ./example & cd horoot@freescale /$ cd home/
+root@freescale /home$ ls
+0_shanmugam.avi  example          new_orig.mp4
+1_shanmugam.avi  new.mp4          shanmugam.avi
+root@freescale /home$ ls -al exaroot@freescale /home$ ls -al example 
+-rwxr-xr-x    1 root     root         45181 Jan  1 00:08 example
+root@freescale /home$ 

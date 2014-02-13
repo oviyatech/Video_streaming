@@ -428,8 +428,8 @@ changetype(int newtype, int show)
 {
 	register struct types *p;
 	int comret, oldverbose = ftp_verbose;
+	printf("Enter CHange Type\n");
 
-	printf("Enter Change Type\n");
 	if (newtype == 0)
 		newtype = TYPE_I;
 	if (newtype == curtype)
@@ -488,7 +488,7 @@ sendrequest(const char *cmd, char *remote, int (*in_fct)(char*,unsigned),
 	int l, cpt;
 
 	MALLOC_BUF;
-	printf(" CURRENT TYPE= %d Newtype = %d typename =%s\n",curtype, type, typename);
+	 printf(" CURRENT TYPE= %d Newtype = %d typename= %s\n",curtype, type, typename);
 	if (curtype != type)
 		changetype(type, 0);
 	oldintr = NULL;
@@ -533,15 +533,13 @@ sendrequest(const char *cmd, char *remote, int (*in_fct)(char*,unsigned),
 
 	case TYPE_I:
 	case TYPE_L:
-		printf("ENnter TYPE I\n");
+		printf("ENter Type I\n");
 		errno = d = 0;
 		while ((c = (*in_fct)(buf, bufsize)) > 0) {
 			bytes += c;
-			for (bufp = buf; c > 0; c -= d, bufp += d){
-		//		printf(" DATA = %x c=%d \n", bufp[c], c);
+			for (bufp = buf; c > 0; c -= d, bufp += d)
 				if ((d = write(fileno(dout), bufp, c)) <= 0)
 					break;
-			}
 		}
 		if (c < 0)
 			fprintf(stderr, "%s\n", strerror(errno));
@@ -622,7 +620,6 @@ int
 recvrequest(const char *cmd, char *remote, int (*out_fct)(char*,unsigned),
 	    unsigned bufsize, off_t restart_point)
 {
-	printf("RECEIVE REQUEST\n");
 	FILE *volatile din = 0;
 	void (*volatile oldintp)(int);
 	void (*volatile oldintr)(int);

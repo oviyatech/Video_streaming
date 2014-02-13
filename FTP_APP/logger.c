@@ -15,9 +15,9 @@
 #define FALSE 0
 #define TRUE 1
 
-#define CONFIG_SERIAL
+//#define CONFIG_SERIAL
 
-//#define CONFIG_FILE
+#define CONFIG_FILE
 struct termios oldtp, newtp;
 
 FILE *fp ;
